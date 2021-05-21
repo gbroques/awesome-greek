@@ -18,3 +18,7 @@ A curated repository of resources for learning Greek.
 ![Greek Alphabet](./greek-alphabet.png)
 
 ![Greek Alphabet](./greek-alphabet.webp)
+
+### Typing
+Interactive website to learn to type in Greek:
+https://www.typingstudy.com/en-greek-3/lesson/1
