@@ -22,3 +22,8 @@ A curated repository of resources for learning Greek.
 ### Typing
 Interactive website to learn to type in Greek:
 https://www.typingstudy.com/en-greek-3/lesson/1
+
+## Websites
+
+* http://www.xanthi.ilsp.gr/filog/default.htm
+* http://www.kypros.org/LearnGreek/
