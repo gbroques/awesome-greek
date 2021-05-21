@@ -25,11 +25,18 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 
 ## Greek Sounds
 
+34 consonant sounds and 5 vowel sounds.
+
+26 consonant sounds shared by English.
+
 ![Greek Sounds](./greek-sounds.png)
+
+![8 new consonant sounds](./8-new-consonant-sounds.png)
 
 ### YouTube Videos
 
 * [Introduction to Perfect Greek Pronunciation](https://www.youtube.com/watch?v=TqzemlAVn6g)
+* [Introduction to Greek Pronunciation](https://www.youtube.com/watch?v=PtsWZ8HvEuI)
 
 ### Vowels
 
