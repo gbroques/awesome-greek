@@ -45,6 +45,14 @@ double vowels
 * [Learn Greek: How to Pronounce the Vowels Correctly | Τα φωνήεντα](https://www.youtube.com/watch?v=Zb7r9kJODTw)
 * [Greek Pronunciation - Greek Vowels](https://www.youtube.com/watch?v=Xql6qZ3lpUo)
 
+## Greek Consonants
+Β Γ Δ Ζ Θ
+
+### YouTube Videos
+
+* [Learn Greek: The Consonants Pronunciation | Part1: Β Γ Δ Ζ Θ](https://www.youtube.com/watch?v=J-K2PjifH0Q)
+
+
 ## Websites
 
 * https://www.duolingo.com/
