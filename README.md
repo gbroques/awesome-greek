@@ -33,6 +33,10 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 
 ![8 new consonant sounds](./8-new-consonant-sounds.png)
 
+### Websites
+
+* [IPA Reader](http://ipa-reader.xyz/)
+
 ### YouTube Videos
 
 * [Introduction to Perfect Greek Pronunciation](https://www.youtube.com/watch?v=TqzemlAVn6g)
