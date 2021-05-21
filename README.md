@@ -25,5 +25,6 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 
 ## Websites
 
+* https://www.duolingo.com/
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
