@@ -48,5 +48,6 @@ double vowels
 ## Websites
 
 * https://www.duolingo.com/
+* https://app.memrise.com/courses/english/greek/
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
