@@ -23,7 +23,15 @@ A curated repository of resources for learning Greek.
 Interactive website to learn to type in Greek:
 https://www.typingstudy.com/en-greek-3/lesson/1
 
-## Greek Vowels
+## Greek Sounds
+
+![Greek Sounds](./greek-sounds.png)
+
+### YouTube Videos
+
+* [Introduction to Perfect Greek Pronunciation](https://www.youtube.com/watch?v=TqzemlAVn6g)
+
+### Vowels
 
 7 vowels
 Α Ε Η Ι Ο Υ Ω
@@ -40,18 +48,17 @@ double vowels
 ΟΙ ΕΙ ΥΙ ee fr**ee**
 ΟΥ ooh sh**oe**
 
-### YouTube Videos
+#### YouTube Videos
 
 * [Learn Greek: How to Pronounce the Vowels Correctly | Τα φωνήεντα](https://www.youtube.com/watch?v=Zb7r9kJODTw)
 * [Greek Pronunciation - Greek Vowels](https://www.youtube.com/watch?v=Xql6qZ3lpUo)
 
-## Greek Consonants
+### Consonants
 Β Γ Δ Ζ Θ
 
-### YouTube Videos
+#### YouTube Videos
 
 * [Learn Greek: The Consonants Pronunciation | Part1: Β Γ Δ Ζ Θ](https://www.youtube.com/watch?v=J-K2PjifH0Q)
-
 
 ## Websites
 
