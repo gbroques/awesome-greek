@@ -109,3 +109,7 @@ double vowels
 ## Audio Courses
 
 * [Complete Greek - Language Transfer](https://www.languagetransfer.org/greek)
+
+## Articles
+
+* [How to Learn Any Language in Record Time and Never Forget It](https://tim.blog/2014/07/16/how-to-learn-any-language-in-record-time-and-never-forget-it/)
