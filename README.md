@@ -74,9 +74,23 @@ double vowels
 ### Consonants
 Β Γ Δ Ζ Θ
 
+|IPA|Name|Simliar To|Sample Words|
+|---|----|----------|------------|
+|[ɣ](https://www.youtube.com/watch?v=Xz9Q38rmXi0)|[voiced dorsal velar non sibilant fricative](https://www.youtube.com/watch?v=MmGjJNGTuIs)|g k|γάλα γωνία γουρούνι γη γένος γηγενής|
+|ɾ|[voiced apical alveolar tap](https://www.youtube.com/watch?v=J0IYx-WGebg)||ρήμα αρένα έρανος|
+|r|[voiced apical alveolar trill](https://www.youtube.com/watch?v=uguCSUaA45k)||τρίζω κράζω πρόβα|
+|ʎ|[voiced dorsal palatal lateral tap](https://www.youtube.com/watch?v=V8iyYPJL200)|l|ελιά λιοπύρι γελιέμαι|
+|ɲ|[voiced front dorsal palatal nasal stop](https://www.youtube.com/watch?v=N0NIZNgVKaY)||νιότη νοιάζομαι πενιές|
+|ʝ|[voiced dorsal palatal non sibilant fricative](https://www.youtube.com/watch?v=jXY5wj56kQY)||αγέρας γείσο γερνώ|
+|ps||||
+|dz||||
+
+*See [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)*.
+
 #### YouTube Videos
 
 * [Learn Greek: The Consonants Pronunciation | Part1: Β Γ Δ Ζ Θ](https://www.youtube.com/watch?v=J-K2PjifH0Q)
+* [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)
 
 ## Websites
 
