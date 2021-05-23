@@ -36,11 +36,17 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 ### Websites
 
 * [IPA Reader](http://ipa-reader.xyz/)
+* [Greek Phonology - The Sound of Greek](http://greek.kanlis.com/phonology.html)
+* [Toward a Phonological Grammar of Modern Spoken Greek - Luigi Romeo](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1964.11659851)
+* [Speak Greek - Phonetic Library](http://speakgreek.web.auth.gr/dp/en/library/choose)
 
 ### YouTube Videos
 
 * [Introduction to Perfect Greek Pronunciation](https://www.youtube.com/watch?v=TqzemlAVn6g)
 * [Introduction to Greek Pronunciation](https://www.youtube.com/watch?v=PtsWZ8HvEuI)
+* [Pronunciation Tutorial 1: English Pronunciation and IPA: Voicing and Place](https://www.youtube.com/watch?v=-e66ByetpDY)
+* [Pronunciation Tutorial 2: English Pronunciation and IPA: Manner](https://www.youtube.com/watch?v=jJR1VPzayu0)
+* [Pronunciation Tutorial 3: English Vowels and the International Phonetic Alphabet](https://www.youtube.com/watch?v=eeaghqkLRi8)
 
 ### Vowels
 
