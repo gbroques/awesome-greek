@@ -91,6 +91,7 @@ double vowels
 
 * [Learn Greek: The Consonants Pronunciation | Part1: Β Γ Δ Ζ Θ](https://www.youtube.com/watch?v=J-K2PjifH0Q)
 * [Learn Greek: The Consonants Pronunciation | Part2: Κ Λ Μ Ν Ξ Π](https://www.youtube.com/watch?v=04BgJPL12cA)
+* [Learn Greek: The Consonants Pronunciation | Part 3: Ρ Σ Τ Φ Χ Ψ](https://www.youtube.com/watch?v=-CwN-k-URks)
 * [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)
 
 ## Websites
