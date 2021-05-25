@@ -40,6 +40,9 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 * [Greek Phonology - The Sound of Greek](http://greek.kanlis.com/phonology.html)
 * [Toward a Phonological Grammar of Modern Spoken Greek - Luigi Romeo](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1964.11659851)
 * [Speak Greek - Phonetic Library](http://speakgreek.web.auth.gr/dp/en/library/choose)
+* [Modern Greek phonology](https://en.wikipedia.org/wiki/Modern_Greek_phonology)
+* [Help:IPA/Greek](https://en.wikipedia.org/wiki/Help:IPA/Greek)
+* [How to Learn a Language’s Sound System with Anki](https://blog.fluent-forever.com/how-to-learn-pronunciation-anki/)
 
 ### YouTube Videos
 
@@ -95,12 +98,18 @@ double vowels
 * [Learn Greek: The Consonants Pronunciation | Part4: Consonant Combinations ΜΠ ΝΤ ΓΚ ΓΓ ΤΣ ΤΖ](https://www.youtube.com/watch?v=c08rv3JK3n4)
 * [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)
 
+## Greek Vocabularly
+
+* [Anki: Vocabulary of Cortina Modern Greek](https://ankiweb.net/shared/info/880833658)
+* [Memrise: Beginner Greek - FULL AUDIO](https://app.memrise.com/course/358276/beginner-greek-full-audio/)
+
 ## Websites
 
 * https://www.duolingo.com/
 * https://app.memrise.com/courses/english/greek/
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
+* http://greek.pgeorgalas.gr/Default.asp
 
 ## Tutors
 
