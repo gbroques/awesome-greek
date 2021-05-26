@@ -54,25 +54,22 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 
 ### Vowels
 
-7 vowels
-Α Ε Η Ι Ο Υ Ω
+![Greek Vowels](./greek-vowels.png)
 
-5 sounds
-Α ah huzz**ah**
-Ε ay hoor**ay**
-ΗΙΥ ee fr**ee**
-ΟΩ **o**
-ΟΥ ooh sh**oe**
-
-double vowels
-ΑΙ ay hoor**ay**
-ΟΙ ΕΙ ΥΙ ee fr**ee**
-ΟΥ ooh sh**oe**
+|IPA|Spellings|
+|---|---------|
+|[ä](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel)|Α|
+|[e̞](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel)|Ε ΑΙ|
+|[i](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel)|Η Ι Υ ΟΙ ΕΙ ΥΙ|
+|[o](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel)|Ο Ω|
+|[u](https://en.wikipedia.org/wiki/Close_back_rounded_vowel)|ΟΥ|
 
 #### YouTube Videos
 
 * [Learn Greek: How to Pronounce the Vowels Correctly | Τα φωνήεντα](https://www.youtube.com/watch?v=Zb7r9kJODTw)
 * [Greek Pronunciation - Greek Vowels](https://www.youtube.com/watch?v=Xql6qZ3lpUo)
+* [Greek Online Lessons | A1 | Phonology - Double Vowels (part 1)](https://www.youtube.com/watch?v=WIWiD51a5VI)
+* [Greek Online Lessons | A1 | Phonology - Double Vowels (part 2)](https://www.youtube.com/watch?v=pNFHIpFFYBY)
 
 ### Consonants
 Β Γ Δ Ζ Θ
