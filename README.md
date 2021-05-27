@@ -77,6 +77,26 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 * [Greek Online Lessons | A1 | Phonology - Double Vowels (part 1)](https://www.youtube.com/watch?v=WIWiD51a5VI)
 * [Greek Online Lessons | A1 | Phonology - Double Vowels (part 2)](https://www.youtube.com/watch?v=pNFHIpFFYBY)
 
+### Vowel Combinations
+
+αυ (/af/ unvoiced) + π τ κ φ θ σ χ
+
+αυ (/av/ voiced) + vowel or μπ ντ β δ γ ζ μ ν λ ρ
+
+ευ (/ef/ unvoiced) + π τ κ φ θ σ χ
+
+ευ (/ev/ voiced) + vowel or μπ ντ β δ γ ζ μ ν λ ρ
+
+An accent mark on the first vowel denotes the pair of vowel letters are pronounced separately.
+άυλος
+
+A [diaeresis](https://en.wikipedia.org/wiki/Greek_diacritics) appears on the letters ι and υ to show that a pair of vowel letters is pronounced separately, rather than as a diphthong.
+καταπραϋντικός
+
+#### YouTube Videos
+
+* [Learn Greek: Grammar & Pronunciation | The Vowel Combinations αυ & ευ](https://www.youtube.com/watch?v=iza1WvQV554)
+
 ### Consonants
 Β Γ Δ Ζ Θ
 
