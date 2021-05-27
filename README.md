@@ -87,6 +87,10 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 
 ευ (/ev/ voiced) + vowel or μπ ντ β δ γ ζ μ ν λ ρ
 
+The second vowel may be accented, and the above rules still apply.
+
+The following are two exceptions to the above rules.
+
 An accent mark on the first vowel denotes the pair of vowel letters are pronounced separately.
 άυλος
 
