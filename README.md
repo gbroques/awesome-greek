@@ -77,29 +77,38 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 * [Greek Online Lessons | A1 | Phonology - Double Vowels (part 1)](https://www.youtube.com/watch?v=WIWiD51a5VI)
 * [Greek Online Lessons | A1 | Phonology - Double Vowels (part 2)](https://www.youtube.com/watch?v=pNFHIpFFYBY)
 
-### Vowel Combinations
+### Double Vowel Combinations
 
-αυ (/af/ unvoiced) + π τ κ φ θ σ χ
+The following double vowel combinations:
 
-αυ (/av/ voiced) + vowel or μπ ντ β δ γ ζ μ ν λ ρ
+1. αυ /av/ /af/
+2. ευ /ev/ /ef/
+3. ηυ /iv/ /if/
 
-ευ (/ef/ unvoiced) + π τ κ φ θ σ χ
+are pronounced with a voiced (/v/) sound or unvoiced (/f/) sound depending upon 3 factors:
 
-ευ (/ev/ voiced) + vowel or μπ ντ β δ γ ζ μ ν λ ρ
+1. accentuation
+2. on the letter that follows
+3. and on their position within a word.
 
-The second vowel may be accented, and the above rules still apply.
+The double vowel combinations may be pronounced separately if:
+1. an accent mark is on the first vowel (e.g. άυλος).
+2. or a [diaeresis](https://en.wikipedia.org/wiki/Greek_diacritics) appears on the second vowel (e.g. καταπραϋντικός).
 
-The following are two exceptions to the above rules.
+If neither vowel is accented, or the second vowel is accented, then the following rules apply:
 
-An accent mark on the first vowel denotes the pair of vowel letters are pronounced separately.
-άυλος
+* /av/ /ev/ and /iv/ (voiced) when:
+    * followed by a vowel or voiced consonant sound (μπ ντ γγ γκ τζ β δ γ ζ μ ν λ ρ)
+* /af/ /ef/ and /if/ (unvoiced) when:
+    * followed by ξ (x), ψ (ps), or an unvoiced consonant sound (κ π τ χ φ θ σ & τσ)
+    * or the double vowel is at the end of a word.
 
-A [diaeresis](https://en.wikipedia.org/wiki/Greek_diacritics) appears on the letters ι and υ to show that a pair of vowel letters is pronounced separately, rather than as a diphthong.
-καταπραϋντικός
+When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before another /f/ sound, the /v/ of /f/ sound is not pronounced twice or longer. It is only pronounced once (e.g. εύβοια and ευφυής).
 
 #### YouTube Videos
 
 * [Learn Greek: Grammar & Pronunciation | The Vowel Combinations αυ & ευ](https://www.youtube.com/watch?v=iza1WvQV554)
+* [How Do You Correctly Pronounce αυ, ευ, and ηυ?](https://www.youtube.com/watch?v=azO2-4fMahY)
 
 ### Consonants
 Β Γ Δ Ζ Θ
