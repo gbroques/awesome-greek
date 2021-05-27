@@ -106,6 +106,12 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 * [Anki: Vocabulary of Cortina Modern Greek](https://ankiweb.net/shared/info/880833658)
 * [Memrise: Beginner Greek - FULL AUDIO](https://app.memrise.com/course/358276/beginner-greek-full-audio/)
 
+## Greek Grammar
+
+### YouTube Videos
+
+* [Learn Greek: Grammar | Τα μέρη του λόγου - Parts of Speech](https://www.youtube.com/watch?v=_ump7AqGJoQ)
+
 ## Websites
 
 * https://www.duolingo.com/
