@@ -189,3 +189,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)
 * [Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)
 * [Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)
+
+## Courses
+
+* [Greek for you A1](https://ellinognosia.com/courses/greek-for-you-a1/)
