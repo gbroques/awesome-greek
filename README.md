@@ -145,6 +145,10 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 
 * [Learn Greek: Grammar | Τα μέρη του λόγου - Parts of Speech](https://www.youtube.com/watch?v=_ump7AqGJoQ)
 
+### Books
+
+* [Essential Modern Greek Grammar](https://www.amazon.com/Essential-Modern-Grammar-Language-Guides/dp/0486251330)
+
 ## Websites
 
 * https://www.duolingo.com/
