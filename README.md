@@ -164,3 +164,7 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 ## Articles
 
 * [How to Learn Any Language in Record Time and Never Forget It](https://tim.blog/2014/07/16/how-to-learn-any-language-in-record-time-and-never-forget-it/)
+
+## Common Greek Proficiency Test
+
+The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one’s knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
