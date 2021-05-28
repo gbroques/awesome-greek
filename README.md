@@ -194,3 +194,10 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 ## Courses
 
 * [Greek for you A1](https://ellinognosia.com/courses/greek-for-you-a1/)
+
+## Books
+
+* [General Secretariat for Lifelong Learning](http://www.gsae.edu.gr/en/)
+  * [Greek Language Learning - A1](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
+  * [Greek Language Learning - A2](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
+  * [Elements of Greek History & Greek Culture](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
