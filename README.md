@@ -168,3 +168,8 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 ## Common Greek Proficiency Test
 
 The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one’s knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
+
+## Greek Radio
+
+* [https://www.e-radio.gr/](https://www.e-radio.gr/)
+* [https://www.ert.gr/](https://www.ert.gr/)
