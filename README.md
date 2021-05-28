@@ -126,6 +126,9 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 
 *See [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)*.
 
+# σ
+σ is pronounced /z/ (voiced) instead of /s/ (unvoiced) before a *voiced* consonant (β, γ, δ, λ, ρ, μ, ν).
+
 #### YouTube Videos
 
 * [Learn Greek: The Consonants Pronunciation | Part1: Β Γ Δ Ζ Θ](https://www.youtube.com/watch?v=J-K2PjifH0Q)
