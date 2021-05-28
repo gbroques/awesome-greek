@@ -177,3 +177,15 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 * [https://www.e-radio.gr/](https://www.e-radio.gr/)
 * [https://www.ert.gr/](https://www.ert.gr/)
+
+## YouTube Channels
+
+* [greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)
+* [Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)
+* [Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)
+* [Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)
+* [Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)
+* [Miss Ruby](https://www.youtube.com/c/MissRuby/featured)
+* [Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)
+* [Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)
+* [Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)
