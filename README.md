@@ -279,3 +279,9 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 * [Fluent Forever Anki tutorials](https://www.youtube.com/playlist?list=PL6iffsHU8hUkLHWIm-OmNc4uUwuiFlFq-)
   * [Fluent Forever Book: The Gallery](https://blog.fluent-forever.com/gallery/)
+
+## Open Courses
+
+* [Open Courses - National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/modules/course_metadata/opencourses.php?fc=42)
+    * [Wind Energy - Video Lesson (Αιολική Ενέργεια - Βιντεομάθημα)](https://ocw.aoc.ntua.gr/courses/MECH108/)
+    * [Air elasticity with application to wind turbines (Αεροελαστικότητα με εφαρμογή σε ανεμογεννήτριες)](https://ocw.aoc.ntua.gr/courses/MECH117/)
