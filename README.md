@@ -285,3 +285,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Open Courses - National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/modules/course_metadata/opencourses.php?fc=42)
     * [Wind Energy - Video Lesson (Αιολική Ενέργεια - Βιντεομάθημα)](https://ocw.aoc.ntua.gr/courses/MECH108/)
     * [Air elasticity with application to wind turbines (Αεροελαστικότητα με εφαρμογή σε ανεμογεννήτριες)](https://ocw.aoc.ntua.gr/courses/MECH117/)
+
+## [Comprehensible Input](https://en.wikipedia.org/wiki/Input_hypothesis)
+
+* [Knowledge as a Common. Communities of production and sharing in Greece](https://www.youtube.com/watch?v=8iCZgZEYm0w)
