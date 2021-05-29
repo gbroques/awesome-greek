@@ -47,6 +47,7 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 * [Speak Greek - Phonetic Library](http://speakgreek.web.auth.gr/dp/en/library/choose)
 * [Modern Greek phonology](https://en.wikipedia.org/wiki/Modern_Greek_phonology)
 * [Help:IPA/Greek](https://en.wikipedia.org/wiki/Help:IPA/Greek)
+* [Appendix:Greek_pronunciation](https://en.wiktionary.org/wiki/Appendix:Greek_pronunciation)
 * [How to Learn a Language’s Sound System with Anki](https://blog.fluent-forever.com/how-to-learn-pronunciation-anki/)
 
 ### YouTube Videos
