@@ -214,6 +214,7 @@ Oblique cases:
 ### Websites
 
 * https://www.greekgrammar.eu/
+* https://www.lingq.com/en/grammar-resource/greek/
 
 ## Articles
 
@@ -270,6 +271,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
   * [Greek Language Learning - A1](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
   * [Greek Language Learning - A2](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
   * [Elements of Greek History & Greek Culture](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
+* [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
 
 ## Articles
 
