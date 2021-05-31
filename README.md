@@ -49,6 +49,7 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 * [Help:IPA/Greek](https://en.wikipedia.org/wiki/Help:IPA/Greek)
 * [Appendix:Greek_pronunciation](https://en.wiktionary.org/wiki/Appendix:Greek_pronunciation)
 * [How to Learn a Language’s Sound System with Anki](https://blog.fluent-forever.com/how-to-learn-pronunciation-anki/)
+* [The Details of Modern Greek Phonetics and Phonology](http://www.foundalis.com/lan/grphdetl.htm)
 
 ### YouTube Videos
 
@@ -254,6 +255,7 @@ Oblique cases:
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
+* http://www.foundalis.com/lan/greek.htm
 
 ## Tutors
 
