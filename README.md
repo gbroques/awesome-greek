@@ -138,6 +138,33 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 * [Learn Greek: The Consonants Pronunciation | Part4: Consonant Combinations ΜΠ ΝΤ ΓΚ ΓΓ ΤΣ ΤΖ](https://www.youtube.com/watch?v=c08rv3JK3n4)
 * [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)
 
+## Greek Spelling
+
+### When do you use ι, η, υ, ει, οι, and υι?
+
+All have the /i/ sound.
+
+#### At the End of Words
+
+1. Words that end in **-ι** are neuter nouns.
+2. Words that end in **-η** are mainly feminine nouns and pronouns in the singular form, and the plural form of neuter -ος ending nouns.
+3. Not that many **-υ** ending words.
+4. Verb forms that end with an /i/ sound will end with **-ει** (πλησώ, to fulfill is an exception ending in -οι).
+5. The plural forms of masculine and femine -ος ending nouns, as well as masculine -ος ending adjectives and pronouns will end in **-οι**.
+
+#### Not at the End of Words
+
+The double vowel combination **-υι** is very rare and not found at the end of words.
+
+Only found in υιός (son) and it's derivatives.
+
+Focus on the roots. For example, ύψος - height:
+
+* υψόμετρο - altitude
+* υψηλός - tall or high
+* ύψωμα - elevation
+* υψώνω - to raise
+
 ## Greek Vocabularly
 
 * [Anki: Vocabulary of Cortina Modern Greek](https://ankiweb.net/shared/info/880833658)
