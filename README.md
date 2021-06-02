@@ -316,6 +316,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)
 * [Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured)
+* [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 
 ## Courses
 
@@ -355,3 +356,4 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * https://abc.commons.gr/
 * https://www.openbook.gr/
   * https://www.openbook.gr/category/audio-books/
+* https://www.ebooks4greeks.gr/
