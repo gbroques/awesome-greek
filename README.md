@@ -128,8 +128,32 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 
 *See [How to Pronounce Greek Like a Native Speaker](https://www.youtube.com/watch?v=G_iQkFMHNiM)*.
 
-# σ
+#### σ
 σ is pronounced /z/ (voiced) instead of /s/ (unvoiced) before a *voiced* consonant (β, γ, δ, λ, ρ, μ, ν).
+
+#### Consonant Digraphs
+A [digraph](https://en.wikipedia.org/wiki/Digraph_(orthography)) is a combination of two letters representing one sound.
+
+* μρ, ντ, γκ / γγ
+  * /b/, /d/, /g/ when:
+    * at the beginning of a word
+    * after a consonant (which is usually ρ)
+    * or sometimes when the word is a foreign loanword.
+  * Nasalised /mb/, /nd/, /ŋg/ in all other cases (**majority**).
+    * in the middle of the word after a vowel.
+* Note that γγ never appears at the beginning of a word or after a consonant, so it is never pronunced /g/.
+
+|Digraph|IPA|Example Words|
+|-------|---|-------------|
+|μρ|/b/ or /mb/|μπαλά κάμπος|
+|ντ|/d/ or /nd/|ντουλάπα πάντα|
+|γκ|/g/ or /ŋg/|γκαρίζω παγκάκι|
+|γγ|/ŋg/|αγγαρεία άγγελος αγγείο εγγόνι αγγούρι|
+
+#### Double Consonants
+ββ, κκ, λλ, μμ, νν, ππ, ρρ, σσ, ττ
+
+Two identical consonants together are pronounced as if there were only one consonant sound.
 
 #### YouTube Videos
 
