@@ -64,13 +64,13 @@ https://www.typingstudy.com/en-greek-3/lesson/1
 
 ![Greek Vowels](./greek-vowels.png)
 
-|IPA|Spellings|
-|---|---------|
-|[ä](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel)|Α|
-|[e̞](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel)|Ε ΑΙ|
-|[i](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel)|Η Ι Υ ΟΙ ΕΙ ΥΙ|
-|[o](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel)|Ο Ω|
-|[u](https://en.wikipedia.org/wiki/Close_back_rounded_vowel)|ΟΥ|
+|IPA|Spellings|Example Words|
+|---|---------|-------------|
+|[ä](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel)|α|άρτος ένατος θάλασσα παράμερα|
+|[e̞](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel)|ε αι|βέβαια έπαινος|
+|[i](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel)|η ι υ οι ει υι|μήνασ ίαση βαρύς οίκος είδηση υιοθεσία|
+|[o](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel)|ο ω|όγκος μώλωπας|
+|[u](https://en.wikipedia.org/wiki/Close_back_rounded_vowel)|ου|ουρά|
 
 #### YouTube Videos
 
