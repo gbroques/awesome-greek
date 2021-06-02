@@ -315,6 +315,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)
 * [Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)
 * [Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)
+* [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured)
 
 ## Courses
 
@@ -351,3 +352,6 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
   * https://wiki.p2pfoundation.net/Greece
   * https://wiki.p2pfoundation.net/Category:Greece
 * [Rural Electrification Research Group - National Papers](https://rurerg.net/papers/conferences/national/)
+* https://abc.commons.gr/
+* https://www.openbook.gr/
+  * https://www.openbook.gr/category/audio-books/
