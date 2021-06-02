@@ -279,6 +279,7 @@ Oblique cases:
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
+  * http://greek.pgeorgalas.gr/Contents.asp
 * http://www.foundalis.com/lan/greek.htm
 
 ## Tutors
@@ -345,3 +346,8 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 ## [Comprehensible Input](https://en.wikipedia.org/wiki/Input_hypothesis)
 
 * [Knowledge as a Common. Communities of production and sharing in Greece](https://www.youtube.com/watch?v=8iCZgZEYm0w)
+* Peer-to-peer (P2P) in Greece
+  * https://www.p2plab.gr/en/
+  * https://wiki.p2pfoundation.net/Greece
+  * https://wiki.p2pfoundation.net/Category:Greece
+* [Rural Electrification Research Group - National Papers](https://rurerg.net/papers/conferences/national/)
