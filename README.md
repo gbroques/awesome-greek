@@ -357,3 +357,6 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * https://www.openbook.gr/
   * https://www.openbook.gr/category/audio-books/
 * https://www.ebooks4greeks.gr/
+* https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance
+* [Unofficial Duolingo Stories](https://carex.uber.space/stories/index.html?lang=el&lang_base=en)
+  * [(Unofficial) Greek Stories – Directory](https://forum.duolingo.com/comment/39343090)
