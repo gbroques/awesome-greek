@@ -1,5 +1,7 @@
 # Grammar (Γραμματική)
 
+* [Deconstruction Dozen](./deconstruction-dozen.md)
+
 ## [Parts of Speech](https://en.wikipedia.org/wiki/Part_of_speech)
 
 Two main parts:
@@ -76,6 +78,7 @@ Oblique cases:
 * https://www.lingq.com/en/grammar-resource/greek/
 * https://www.asc.ohio-state.edu/joseph.1/articles/gmodern.htm
 * [An Overview of Greek Grammar - Harry Foundalis](http://www.foundalis.com/lan/grkgram.htm)
+* [English and Modern Greek Phrase Structure Comparison](http://www.foundalis.com/lan/phstregs.htm)
 
 ## Articles
 * [Wikipedia - Modern Greek grammar](https://en.wikipedia.org/wiki/Modern_Greek_grammar)
