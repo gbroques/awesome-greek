@@ -32,14 +32,18 @@ Inflection of verbs is called *conjugation*.
    1. Singular
    2. Plural
 
-## 4 Cases
+## 4 [Cases](https://en.wikipedia.org/wiki/Grammatical_case)
 
 Cases exist in order to indiate relationships among the words of a sentence like the subject, object, and more.
 
-1. Nominative
-2. Genitive
-3. Accusative
+1. Nominative (Ονομαστική)
+    * for subjects of sentences
+2. Genitive (Γενική)
+    * denoting possession
+3. Accusative (Αιτιατική)
+    * for objects (direct & indirect) of sentences
 4. Vocative
+    * for calling or to address somebody.
 
 Direct cases:
 1. Nominative
@@ -71,6 +75,7 @@ Oblique cases:
 * https://www.greekgrammar.eu/
 * https://www.lingq.com/en/grammar-resource/greek/
 * https://www.asc.ohio-state.edu/joseph.1/articles/gmodern.htm
+* [An Overview of Greek Grammar - Harry Foundalis](http://www.foundalis.com/lan/grkgram.htm)
 
 ## Articles
 * [Wikipedia - Modern Greek grammar](https://en.wikipedia.org/wiki/Modern_Greek_grammar)
