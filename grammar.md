@@ -55,7 +55,7 @@ Oblique cases:
 1. Genitive
 2. Accusative
 
-### άρθρο (article)
+### article (άρθρο)
 
 1. Το οριστικό άρθρο (*the definite article*).
     * ο, η, το
@@ -82,3 +82,6 @@ Oblique cases:
 
 ## Articles
 * [Wikipedia - Modern Greek grammar](https://en.wikipedia.org/wiki/Modern_Greek_grammar)
+* [Wikipedia - Synthetic language](https://en.wikipedia.org/wiki/Synthetic_language)
+    * [Wikipedia - Fusional language](https://en.wikipedia.org/wiki/Fusional_language)
+
