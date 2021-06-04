@@ -1,6 +1,6 @@
 # Grammar (Γραμματική)
 
-## Parts of Speech
+## [Parts of Speech](https://en.wikipedia.org/wiki/Part_of_speech)
 
 Two main parts:
 1. **Inflected** - Modified (mostly their endings) depending upon their position or usage in a sentence.
@@ -8,12 +8,12 @@ Two main parts:
 
 |Inflected (Κλιτά)|Non-inflected (Άκλιτα)|
 |-----------------|----------------------|
-|1. άρθρο (article)|7. επίρρλμα (adverb)|
-|2. ουσιαστικό (noun)|8. πρόθεση (preposition)|
-|3. επίθετο (adjective)|9. σύνδεσμος (conjunction)|
-|4. αντωνυμία (pronoun)|10. επιφώνημα (interjection)|
-|5. ρήμα (verb)||
-|6. μετοχή (participle)||
+|1. [article](https://en.wikipedia.org/wiki/Article_(grammar)) (άρθρο)|7. [adverb](https://en.wikipedia.org/wiki/Adverb) (επίρρλμα)|
+|2. [noun](https://en.wikipedia.org/wiki/Noun) (ουσιαστικό)|8. [preposition](https://en.wikipedia.org/wiki/Preposition_and_postposition) (πρόθεση)|
+|3. [adjective](https://en.wikipedia.org/wiki/Adjective) (επίθετο)|9. [conjunction](https://en.wikipedia.org/wiki/Conjunction_(grammar)) (σύνδεσμος)|
+|4. [pronoun](https://en.wikipedia.org/wiki/Pronoun) (αντωνυμία)|10. [interjection](https://en.wikipedia.org/wiki/Interjection) (επιφώνημα)|
+|5. [verb](https://en.wikipedia.org/wiki/Verb) (ρήμα)||
+|6. [participle](https://en.wikipedia.org/wiki/Participle) (μετοχή)||
 
 ## Inflection (Declension & Conjugation)
 
@@ -70,6 +70,7 @@ Oblique cases:
 
 * https://www.greekgrammar.eu/
 * https://www.lingq.com/en/grammar-resource/greek/
+* https://www.asc.ohio-state.edu/joseph.1/articles/gmodern.htm
 
 ## Articles
 * [Wikipedia - Modern Greek grammar](https://en.wikipedia.org/wiki/Modern_Greek_grammar)
