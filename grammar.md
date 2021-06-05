@@ -28,6 +28,15 @@
 
 **Source:** [YouTube: Morphology (part 1)](https://www.youtube.com/watch?v=mv7t6Q0uebY)
 
+## Syntax
+
+* Predominant word order is [SVO (subject–verb–object)](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object).
+* Word order is quite freely variable, with VSO and other orders as frequent alternatives.
+* Within the [noun phrase](https://en.wikipedia.org/wiki/Noun_phrase):
+    * adjectives precede the noun (for example, το μεγάλο σπίτι, [to meˈɣalo ˈspiti], 'the big house')
+    * while possessors follow it (for example, το σπίτι μου, [to ˈspiti mu], 'my house'; το σπίτι του Νίκου 'Nick's house').
+    * Alternative constructions involving the opposite order of constituents are possible (e.g. το σπίτι το μεγάλο 'the big house'; του Νίκου το σπίτι 'Nick's house')
+
 ## [Parts of Speech](https://en.wikipedia.org/wiki/Part_of_speech)
 
 Two main parts:
