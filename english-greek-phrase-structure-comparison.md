@@ -12,7 +12,7 @@ The following table lists some common syntactic structures.
 * The *Agreement* column shows whether there is an agreement between *English* and *Greek* regarding whether the head leads or trails the structure.
 
 |Conceptual Structure|English|Greek|Agreement|
-|--------------------|-------|-----|---------|
+|--------------------|-------|-----|:-------:|
 |1. [**verb**](https://en.wikipedia.org/wiki/Verb) ⟷ direct [object](https://en.wikipedia.org/wiki/Object_(grammar))|**read** the book|**διαβάζω** το βιβλίο|✔️|
 |2. [**verb**](https://en.wikipedia.org/wiki/Verb) ⟷ [prepositional phrase](https://en.wikipedia.org/wiki/Adpositional_phrase#Prepositional_phrases)|**hide** under the table|**κρύβομαι** κάτω από το τραπέζι|✔️|
 |3. [**verb**](https://en.wikipedia.org/wiki/Verb) ⟷ [embedded clause](https://en.wikipedia.org/wiki/Dependent_clause)|**think** that he will win|**νομίζω** οτι θα νικήσει|✔️|
