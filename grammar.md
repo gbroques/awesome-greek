@@ -1,6 +1,7 @@
 # Grammar (Γραμματική)
 
 * [Deconstruction Dozen](./deconstruction-dozen.md)
+* [English Greek Phrase Structure Comparison](./english-greek-phrase-structure-comparison.md)
 
 ## [Morphology](https://en.wikipedia.org/wiki/Morphology_(linguistics))
 
