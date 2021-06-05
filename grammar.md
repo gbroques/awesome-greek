@@ -49,28 +49,38 @@ Inflection of articles, nouns, adjectives, pronouns, and passive voice participl
 
 Inflection of verbs is called *conjugation*.
 
-### 3 Characteristics of Declension
+### 3 Characteristics of Declension (Κλίση)
 
 1. Case
 2. Gender
-   1. Masculine
-   2. Feminine
-   3. Neuter
+   1. masculine (αρσενικό)
+   2. feminine (θηλυκό)
+   3. neuter (ουδέτερο)
 3. Number
    1. Singular
    2. Plural
 
-## 4 [Cases](https://en.wikipedia.org/wiki/Grammatical_case)
+Which parts of speech are *declinable*?
 
-Cases exist in order to indiate relationships among the words of a sentence like the subject, object, and more.
+* Nouns
+* Adjectives
+* Articles
+* Prounouns (most of them)
+* Participles (passive)
+
+## 4 [Cases](https://en.wikipedia.org/wiki/Grammatical_case) (Πτώσεις)
+
+Cases exist in order to indiate relationships among the words of a sentence like the [subject](https://en.wikipedia.org/wiki/Subject_(grammar)), [verb](https://en.wikipedia.org/wiki/Verb), [object](https://en.wikipedia.org/wiki/Object_(grammar)), and more.
 
 1. Nominative (Ονομαστική)
-    * for subjects of sentences
+    * for the [subject](https://en.wikipedia.org/wiki/Subject_(grammar)) of the [verb](https://en.wikipedia.org/wiki/Verb)
+    * [predicate](https://en.wikipedia.org/wiki/Predicate_(grammar)) (with [linking verbs](https://en.wikipedia.org/wiki/Linking_verb) like "*to be*")
 2. Genitive (Γενική)
-    * denoting possession
+    * denoting possession, quality, time, location, etc.
 3. Accusative (Αιτιατική)
-    * for objects (direct & indirect) of sentences
-4. Vocative
+    * for the [object](https://en.wikipedia.org/wiki/Object_(grammar)) (direct & indirect) of the [verb](https://en.wikipedia.org/wiki/Verb)
+    * preposition + accusative
+4. Vocative (Κλητική)
     * for calling or to address somebody.
 
 Direct cases:
@@ -81,13 +91,39 @@ Oblique cases:
 1. Genitive
 2. Accusative
 
-### article (άρθρο)
+**Source:** [Learn Greek: Οι πτώσεις | The Cases: Use and Syntax](https://www.youtube.com/watch?v=YOD0EBNOMu8)
+
+### [article](https://en.wikipedia.org/wiki/Article_(grammar)) (άρθρο)
 
 1. Το οριστικό άρθρο (*the definite article*).
     * ο, η, το
 
 2. το αόριστο άρθρο (*the indefinite article*).
     * ένας, μια, ένα
+
+### [pronoun](https://en.wikipedia.org/wiki/Pronoun) (αντωνυμία)
+
+A word that substitutes for a noun or noun phrase.
+
+Pronouns have the following categories:
+1. personal (προσωπικές)
+2. possessive (κτητικές)
+3. demonstrative (δεικτικές)
+4. relative (αναφορικές)
+5. indefinite (αόριστες)
+6. reflexive (αυτοπαθείς)
+7. interrogative (ερωτηματικές)
+8. definite (οριστικές)
+
+#### personal (προσωπικές)
+[Personal pronouns](https://en.wikipedia.org/wiki/Personal_pronoun) are short substitute words for the proper name of a person.
+
+Greek has **strong** and **weak** forms:
+
+1. **strong** - for *emphasis* and can stand alone in a sentence.
+2. **weak** - more common. *Not* for emphasis. 
+
+**Source:** [Introduction to Greek Personal Pronouns - Προσωπικές αντωνυμίες](https://www.youtube.com/watch?v=-6rXcGqa1n8)
 
 ## YouTube Videos
 
@@ -97,6 +133,7 @@ Oblique cases:
 
 * [Essential Modern Greek Grammar](https://www.amazon.com/Essential-Modern-Grammar-Language-Guides/dp/0486251330)
 * [Greek: An Essential Grammar](https://www.amazon.com/Greek-Essential-Grammar-Routledge-Grammars/dp/1138930687/)
+* [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/bitstream/11419/4393/1/00_master_document.pdf)
 
 ## Websites
 
@@ -105,6 +142,7 @@ Oblique cases:
 * https://www.asc.ohio-state.edu/joseph.1/articles/gmodern.htm
 * [An Overview of Greek Grammar - Harry Foundalis](http://www.foundalis.com/lan/grkgram.htm)
 * [English and Modern Greek Phrase Structure Comparison](http://www.foundalis.com/lan/phstregs.htm)
+* http://www.asteri.ws/en/index-en.html
 
 ## Articles
 * [Wikipedia - Modern Greek grammar](https://en.wikipedia.org/wiki/Modern_Greek_grammar)
