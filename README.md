@@ -41,6 +41,11 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [https://www.e-radio.gr/](https://www.e-radio.gr/)
 * [https://www.ert.gr/](https://www.ert.gr/)
 
+## Music
+
+* [Panik Records](https://panikmusic.gr/)
+* [Cobalt Music](http://www.cobaltmusic.gr/)
+
 ## YouTube Channels
 
 * [greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)
