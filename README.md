@@ -16,6 +16,7 @@ A curated repository of resources for learning Greek.
 * http://greek.pgeorgalas.gr/Default.asp
   * http://greek.pgeorgalas.gr/Contents.asp
 * http://www.foundalis.com/lan/greek.htm
+* [Greek Alphabet: Unlock the Secrets](http://www.greekalphabeta.com/)
 
 ## Tutors
 
@@ -87,6 +88,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
   * https://wiki.p2pfoundation.net/Greece
   * https://wiki.p2pfoundation.net/Category:Greece
 * [Rural Electrification Research Group - National Papers](https://rurerg.net/papers/conferences/national/)
+* [Open Technologies Alliance (GFOSS)](https://en.wikipedia.org/wiki/Open_Technologies_Alliance_(GFOSS))
 * https://abc.commons.gr/
 * https://www.openbook.gr/
   * https://www.openbook.gr/category/audio-books/
