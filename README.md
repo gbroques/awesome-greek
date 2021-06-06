@@ -54,6 +54,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured)
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured)
+* [Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)
 
 ## Courses
 
