@@ -61,6 +61,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured)
 * [Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)
+* [Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)
 
 ## Courses
 
@@ -101,3 +102,4 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance
 * [Unofficial Duolingo Stories](https://carex.uber.space/stories/index.html?lang=el&lang_base=en)
   * [(Unofficial) Greek Stories – Directory](https://forum.duolingo.com/comment/39343090)
+* [Greek Mythology - Stories of ancient mythological heroes and gods.](http://www.ilearngreek.com/mythology/greek_mythology.asp)
