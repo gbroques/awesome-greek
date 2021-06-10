@@ -79,6 +79,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 * [Fluent Forever Anki tutorials](https://www.youtube.com/playlist?list=PL6iffsHU8hUkLHWIm-OmNc4uUwuiFlFq-)
   * [Fluent Forever Book: The Gallery](https://blog.fluent-forever.com/gallery/)
+* [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
 
 ## Open Courses
 

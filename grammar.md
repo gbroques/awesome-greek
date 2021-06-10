@@ -135,6 +135,75 @@ Greek has **strong** and **weak** forms:
 
 **Source:** [Introduction to Greek Personal Pronouns - Προσωπικές αντωνυμίες](https://www.youtube.com/watch?v=-6rXcGqa1n8)
 
+
+#### verb (ρήμα)
+
+Two groups:
+
+1. Group **A**
+    * last syllable *isn't* stressed ([διαβάζω](https://el.wiktionary.org/wiki/%CE%B4%CE%B9%CE%B1%CE%B2%CE%AC%CE%B6%CF%89))
+2. Group **B**
+    * last syllable *is* stressed ([αγαπώ](https://el.wiktionary.org/wiki/%CE%B1%CE%B3%CE%B1%CF%80%CF%8E))
+
+Two [grammatical aspects](https://en.wikipedia.org/wiki/Grammatical_aspect):
+
+1. [Perfective](https://en.wikipedia.org/wiki/Perfective_aspect) - closed (complete)
+    * Future Simple
+    * Past Simple
+2. [Imperfective](https://en.wikipedia.org/wiki/Imperfective_aspect) - open (continuous)
+    * Present Simple
+
+##### Imperfective -> Perfective
+
+* If the last letter of verb stem ends with:
+    * vowel, ν, θ, or ζ
+* Then replace with:
+    * σ
+
+* Examples:
+    * ακούω -> θα ακούσω (listen)
+    * κλείνω -> θα κλείσω (close)
+    * διαβάζω -> θα διαωάσω (read)
+
+---
+
+* If the last letter of verb stem ends with:
+    * κ, γ, χ, or χν
+* Then replace with:
+    * ξ
+
+* Examples:
+    * πλένω -> θα πλέξω (knit)
+    * ανοίγω -> θα ανοίξω (open)
+    * προσέχω -> θα προσέξω (take care)
+    * φτιάχνω -> θα φτιάξω (make)
+
+---
+
+* If the last letter of verb stem ends with:
+    * π, πτ, β, φ, or ευ
+* Then replace with:
+    * ψ
+
+* Examples:
+    * βλάπτω -> θα βλάψω (harm)
+    * κρύβω -> θα κρύψω (hide)
+    * γράφω -> θα γράψω (write)
+    * δουλεύω -> θα δουλέψω (work)
+
+##### A Conjugation
+
+κάν-ω
+κάν-εις
+κάν-ει
+κάν-ουμε
+κάν-ετε
+κάν-ουν(ε)
+
+**Sources:**
+* [Greek Verbs explained in 10 MINUTES (Group A) Greek with Linguatree](https://www.youtube.com/watch?v=Myn1Hbq8naI)
+* [Greek Online Lessons | A1 | A Verbs](https://www.youtube.com/watch?v=S45pQaqUY-U)
+
 ## YouTube Videos
 
 * [Learn Greek: Grammar | Τα μέρη του λόγου - Parts of Speech](https://www.youtube.com/watch?v=_ump7AqGJoQ)
