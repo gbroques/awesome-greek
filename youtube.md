@@ -39,6 +39,7 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 |Προσθέστε ένα δημόσιο σχόλιο…|Add a public comment...|
 |Άκυρο|Cancel|
 |Σχόλιο|Comment|
+|Σίγαση|Mute|
 
 ---
 
@@ -61,6 +62,13 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 |λεπτά|minutes|
 |δεύτερος|second|
 |δευτερόλεπτα|seconds|
+
+## Months
+|Greek|English|
+|-----|-------|
+|Ιαν|Jan|
+|Φεβ|Feb|
+|Νοε|Nov|
 
 ## Settings
 
