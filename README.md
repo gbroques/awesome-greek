@@ -31,6 +31,7 @@ A curated repository of resources for learning Greek.
 
 * [How to Learn Any Language in Record Time and Never Forget It](https://tim.blog/2014/07/16/how-to-learn-any-language-in-record-time-and-never-forget-it/)
 * [Wikipedia - Modern Greek](https://en.wikipedia.org/wiki/Modern_Greek)
+* [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
 
 ## Common Greek Proficiency Test
 
