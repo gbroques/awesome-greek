@@ -42,6 +42,7 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 |Άκυρο|Cancel|
 |Σχόλιο|Comment|
 |Σίγαση|Mute|
+|Υπότιτλοι|Subtitles|
 
 ---
 
