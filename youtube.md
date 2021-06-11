@@ -29,6 +29,8 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 
 |Greek|English|
 |-----|-------|
+|χίλια (χίλ.)|thousand|
+|εκατομμύριο (εκ.)|million|
 |προβολές|views|
 |και άλλοι|and others|
 |Μου αρέσει|I like|
