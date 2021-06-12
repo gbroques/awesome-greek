@@ -63,6 +63,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured)
 * [Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)
 * [Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)
+* [Easy Languages](https://www.youtube.com/c/learnlanguages/featured)
 
 ## Courses
 
