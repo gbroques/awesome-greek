@@ -71,6 +71,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
 * [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
+* [The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)
 
 ## Courses
 
