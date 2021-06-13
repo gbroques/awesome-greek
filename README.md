@@ -84,6 +84,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
   * [Elements of Greek History & Greek Culture](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
 * [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
 * [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
+* [Γραμματική Νέας Ελληνικής Γλώσσας (Grammar of Modern Greek Language)](http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index.html)
 
 ## YouTube Videos
 
