@@ -37,6 +37,10 @@ A curated repository of resources for learning Greek.
 
 The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one’s knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
 
+## Podcasts
+
+* [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
+
 ## Greek Radio
 
 * [https://www.e-radio.gr/](https://www.e-radio.gr/)
@@ -76,6 +80,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
   * [Greek Language Learning - A2](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
   * [Elements of Greek History & Greek Culture](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
 * [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
+* [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
 
 ## YouTube Videos
 
@@ -106,3 +111,4 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Unofficial Duolingo Stories](https://carex.uber.space/stories/index.html?lang=el&lang_base=en)
   * [(Unofficial) Greek Stories – Directory](https://forum.duolingo.com/comment/39343090)
 * [Greek Mythology - Stories of ancient mythological heroes and gods.](http://www.ilearngreek.com/mythology/greek_mythology.asp)
+* [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts, written and oral, for learning Greek as a second language.
