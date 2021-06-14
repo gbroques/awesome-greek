@@ -70,10 +70,18 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 ## Months
 |Greek|English|
 |-----|-------|
-|Ιαν|Jan|
-|Απρ|Apr|
-|Φεβ|Feb|
-|Νοε|Nov|
+|Ιανουάριος (Ιαν)|January (Jan)|
+|Φεβρουάριος (Φεβ)|February (Feb)|
+|Μάρτιος|March (Mar)|
+|Απρίλιος (Απρ)|April (Apr)|
+|Ενδέχεται|May|
+|Ιούνιος (Ιουν)|June (Jun)|
+|Ιούλιος (Ιουλ)|July (Jul)|
+|Αύγουστος|August (Aug)|
+|Σεπτέμβριος|September (Sep)|
+|Οκτώβριος (Οκτ)|October (Oct)|
+|Νοέμβριος (Νοε)|November (Nov)|
+|Δεκέμβριος|December (Dec)|
 
 ## Settings
 
