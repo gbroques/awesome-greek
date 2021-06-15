@@ -76,6 +76,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
 * [Greek Stories in HD for children to read along](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6)
 * [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
+* [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
 
 ## Courses
 
