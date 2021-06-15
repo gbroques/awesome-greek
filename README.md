@@ -62,6 +62,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)
 * [Miss Ruby](https://www.youtube.com/c/MissRuby/featured)
 * [Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)
+* [The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)
 * [Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)
 * [Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured)
@@ -81,8 +82,14 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * [jimkokko5](https://www.youtube.com/c/jimkokko5/featured) - Programming and technology videos in Greek.
+* [Tech and Code In Greek](https://www.youtube.com/c/TechandCodeInGreek/featured) - Programming and technology videos in Greek.
 * [Science Behind Music](https://www.youtube.com/c/ScienceBehindMusic/featured) - videos about the scientific aspects of music in Greek.
 * [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
+* [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
+
+## Movies
+
+* [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
 
 ## Courses
 
