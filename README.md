@@ -32,6 +32,7 @@ A curated repository of resources for learning Greek.
 * [How to Learn Any Language in Record Time and Never Forget It](https://tim.blog/2014/07/16/how-to-learn-any-language-in-record-time-and-never-forget-it/)
 * [Wikipedia - Modern Greek](https://en.wikipedia.org/wiki/Modern_Greek)
 * [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
+* [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
 
 ## Common Greek Proficiency Test
 
@@ -40,6 +41,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 ## Podcasts
 
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
+* [Hellenic American Union: Learning Greek Podcasts](https://www.hau.gr/?i=learning.en.podcasts-in-greek)
 
 ## Greek Radio
 
@@ -77,6 +79,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Greek Stories in HD for children to read along](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6)
 * [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
 * [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
+* [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 
 ## Courses
 
