@@ -80,6 +80,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
 * [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
+* [jimkokko5](https://www.youtube.com/c/jimkokko5/featured) - Programming and technology videos in Greek.
 
 ## Courses
 
