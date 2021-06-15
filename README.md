@@ -72,6 +72,9 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
 * [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
 * [The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)
+* [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
+* [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
+* [Greek Stories in HD for children to read along](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6)
 
 ## Courses
 
