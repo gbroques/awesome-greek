@@ -53,6 +53,8 @@ Two main parts:
 |5. [verb](https://en.wikipedia.org/wiki/Verb) (ρήμα)||
 |6. [participle](https://en.wikipedia.org/wiki/Participle) (μετοχή)||
 
+\* Greek also has "particles" or [function words](https://en.wikipedia.org/wiki/Function_word) (also called *functors*), but they are not considered a part of speech.
+
 ## Inflection (Declension & Conjugation)
 
 Inflection of articles, nouns, adjectives, pronouns, and passive voice participles is called *declension*.
@@ -140,10 +142,15 @@ Greek has **strong** and **weak** forms:
 
 Two groups:
 
-1. Group **A**
+1. 1st Conjugation (Group **A**)
     * last syllable *isn't* stressed ([διαβάζω](https://el.wiktionary.org/wiki/%CE%B4%CE%B9%CE%B1%CE%B2%CE%AC%CE%B6%CF%89))
-2. Group **B**
+    * end with -ω in active voice.
+    * end with -ομαι in passive voice.
+2. 2nd Conjugation (Group **B**)
     * last syllable *is* stressed ([αγαπώ](https://el.wiktionary.org/wiki/%CE%B1%CE%B3%CE%B1%CF%80%CF%8E))
+    * end with -ώ in active voice.
+    * end with -ιέμαι in passive voice (1st class)
+    * end with -ούμαι, άμαι, or -ώμαι in passive voice (2nd class)
 
 Two [grammatical aspects](https://en.wikipedia.org/wiki/Grammatical_aspect):
 
@@ -203,6 +210,25 @@ Two [grammatical aspects](https://en.wikipedia.org/wiki/Grammatical_aspect):
 **Sources:**
 * [Greek Verbs explained in 10 MINUTES (Group A) Greek with Linguatree](https://www.youtube.com/watch?v=Myn1Hbq8naI)
 * [Greek Online Lessons | A1 | A Verbs](https://www.youtube.com/watch?v=S45pQaqUY-U)
+
+##### Tenses ([Χρόνος](https://el.wikipedia.org/wiki/%CE%A7%CF%81%CF%8C%CE%BD%CE%BF%CF%82_(%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE)))
+
+1. Present (Ενεστώτας) (*no distinction between simple and continuous present*)
+    * I love / I'm loving (αγαπώ)
+2. Past continuous (Imperfect) (Παρατατικός)
+    * I was loving (αγαπούσα)
+3. Simple past (or aorist) (Αόριστος)
+    * I loved (αγάπησα)
+4. Future continuous (Εξακολουθητικός μέλλοντας)
+    * I will be loving (θα αγαπώ)
+5. Simple future (Στιγμιαίος μέλλοντας)
+    * I will love (θα αγαπήσω)
+6. Perfect (Present Perfect) (Παρακείμενος)
+    * I have loved (έχω αγαπήδει)
+7. Past perfect (Pluperfect) (Υπερσυντέλικος)
+    * I had loved (είχα αγαπήδει)
+8. Future perfect (Συντελεσμένος μέλλοντας)
+    * I will have loved (θα έχω αγαπήσει)
 
 ## YouTube Videos
 
