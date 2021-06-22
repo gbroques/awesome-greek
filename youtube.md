@@ -66,6 +66,8 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 |λεπτά|minutes|
 |δεύτερος|second|
 |δευτερόλεπτα|seconds|
+|προ μεσημβρίας (πμ)|before noon|
+|μετά μεσημβρίας (πμ)|after noon|
 
 ## Months
 |Greek|English|
@@ -82,6 +84,8 @@ A vocabulary cheat-sheet for translating Greek to English for YouTube.
 |Οκτώβριος (Οκτ)|October (Oct)|
 |Νοέμβριος (Νοε)|November (Nov)|
 |Δεκέμβριος|December (Dec)|
+
+![Months](./months.png)
 
 ## Settings
 
