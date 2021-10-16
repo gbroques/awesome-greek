@@ -11,6 +11,7 @@ A curated repository of resources for learning Greek.
 
 * [Duolingo](https://www.duolingo.com/)
 * [Memrise](https://app.memrise.com/courses/english/greek/)
+* [Clozemaster](https://www.clozemaster.com/l/ell-eng)
 * [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
