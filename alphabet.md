@@ -12,9 +12,14 @@
 * [Modern Greek Lessons: Greek Alphabet](https://www.youtube.com/watch?v=vLoeAYL2-qc)
 * [Learning the Greek alphabet - an introduction to the Script Hacking method - Judith Meyer | PG 2019](https://www.youtube.com/watch?v=nHA2DEYVJR0)
 
+## Websites
+
+* [Greek Alphabet: Unlock the Secrets](https://web.archive.org/web/20210411035952/http://www.greekalphabeta.com/)
+
 ## Books
 
 * [Greek Script Hacking: The optimal pathway to learn the Greek alphabet (Teach Yourself)](https://www.amazon.com/Greek-Script-Hacking-optimal-alphabet/dp/1473679826)
+* [Greek Alphabet: Unlock the Secrets](https://www.amazon.com/Greek-Alphabet-Catherine-R-Proppe/dp/1940274486)
 
 ## Pictures (with English Pronunciation)
 ![Greek Alphabet](./greek-alphabet.png)
