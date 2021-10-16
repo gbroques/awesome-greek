@@ -9,13 +9,13 @@ A curated repository of resources for learning Greek.
 
 ## Websites
 
-* https://www.duolingo.com/
-* https://app.memrise.com/courses/english/greek/
+* [Duolingo](https://www.duolingo.com/)
+* [Memrise](https://app.memrise.com/courses/english/greek/)
+* [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
 * http://www.xanthi.ilsp.gr/filog/default.htm
 * http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
   * http://greek.pgeorgalas.gr/Contents.asp
-* http://www.foundalis.com/lan/greek.htm
 
 ## Tutors
 
