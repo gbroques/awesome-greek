@@ -43,6 +43,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
 * [Hellenic American Union: Learning Greek Podcasts](https://www.hau.gr/?i=learning.en.podcasts-in-greek)
+* [Spotify — Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 
 ## Greek Radio
 
