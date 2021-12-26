@@ -13,7 +13,8 @@ A curated repository of resources for learning Greek.
 * [Memrise](https://app.memrise.com/courses/english/greek/)
 * [Clozemaster](https://www.clozemaster.com/l/ell-eng)
 * [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
-* http://www.xanthi.ilsp.gr/filog/default.htm
+* [Filoglossia - Learning Greek as a foreign language](http://www.xanthi.ilsp.gr/filog/default.htm)
+  * [Sitemap](http://www.xanthi.ilsp.gr/filog/sitemap.htm)
 * http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
   * http://greek.pgeorgalas.gr/Contents.asp
@@ -107,6 +108,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
 * [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
 * [Γραμματική Νέας Ελληνικής Γλώσσας (Grammar of Modern Greek Language)](http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index.html)
+* [Books4Languages - Index](https://open.books4languages.com/multisite-index/)
 
 ## Audio Books
 
