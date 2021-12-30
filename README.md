@@ -93,6 +93,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
+* [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
 
 ## Movies
 
