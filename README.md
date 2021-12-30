@@ -90,6 +90,8 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
 * [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
 * [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
+* [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
+* [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
 
 ## Movies
 
