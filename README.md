@@ -94,6 +94,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
 * [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
+* [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek with subtitles.
 
 ## Movies
 
