@@ -147,6 +147,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
   * https://wiki.p2pfoundation.net/Category:Greece
 * [Rural Electrification Research Group - National Papers](https://rurerg.net/papers/conferences/national/)
 * [Open Technologies Alliance (GFOSS)](https://en.wikipedia.org/wiki/Open_Technologies_Alliance_(GFOSS))
+* [ΕΛ / ΛΑΚ](https://ellak.gr/) -  Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα (Free Software / Open Source Software)
 * https://abc.commons.gr/
 * https://www.openbook.gr/
   * https://www.openbook.gr/category/audio-books/
