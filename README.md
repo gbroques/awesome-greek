@@ -95,6 +95,8 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
 * [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
 * [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek with subtitles.
+* [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
+* [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
 
 ## Movies
 
