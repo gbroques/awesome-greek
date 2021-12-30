@@ -100,6 +100,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Alpha Ωmega](https://www.youtube.com/c/AlphaOmegaGreece/featured) - videos about ancient Greek history, Greek mythology, archaeology, and more.
 * [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
 * [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
+* [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 
 ## Movies
 
