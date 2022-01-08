@@ -35,6 +35,7 @@ A curated repository of resources for learning Greek.
 * [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
 * [The Greek Impact on English Vocabulary](https://guinlist.wordpress.com/2014/10/20/90-the-greek-impact-on-english-vocabulary/)
 * [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
+* [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 
 ## Blogs
 
