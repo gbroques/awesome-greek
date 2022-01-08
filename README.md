@@ -36,6 +36,10 @@ A curated repository of resources for learning Greek.
 * [The Greek Impact on English Vocabulary](https://guinlist.wordpress.com/2014/10/20/90-the-greek-impact-on-english-vocabulary/)
 * [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
 
+## Blogs
+
+* [Greek Grammar Blog (tumblr)](https://greek-grammar-blog.tumblr.com/) - 1st 5 articles focus on passive voice.
+
 ## Common Greek Proficiency Test
 
 The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one’s knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
