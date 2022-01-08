@@ -40,6 +40,7 @@ A curated repository of resources for learning Greek.
 ## Blogs
 
 * [Greek Grammar Blog (tumblr)](https://greek-grammar-blog.tumblr.com/) - 1st 5 articles focus on passive voice.
+* https://blogs.transparent.com/greek/
 
 ## Common Greek Proficiency Test
 
