@@ -114,6 +114,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 ## Movies
 
 * [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
+* [BBC Learning Zone - Talk Greek 1](https://www.youtube.com/watch?v=0nq7-r0wNb4)
 
 ## Courses
 
