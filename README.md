@@ -134,6 +134,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Books4Languages - Index](https://open.books4languages.com/multisite-index/)
 * [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
 * ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
+* https://free-ebooks.gr/
 
 ## Audio Books
 
