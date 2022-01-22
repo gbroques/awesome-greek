@@ -112,6 +112,11 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 
+## Shows
+
+* [Πέππα το γουρουνάκι](https://www.youtube.com/playlist?list=PLQ17oChB0XEKywkOIXPQqbl_BP4XnAfPG) (Peppa Pig) - on YouTube with Greek subtitles.
+  * [Πέππα το Γουρουνάκι - επίσημο κανάλι](https://www.youtube.com/channel/UCkiXi3X7fGie4Now_0a5vtA/videos)
+
 ## Movies
 
 * [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
