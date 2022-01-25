@@ -67,26 +67,33 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 ## YouTube Channels
 
-* [greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)
-* [Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)
-* [Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)
-* [Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)
-* [Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)
-* [Miss Ruby](https://www.youtube.com/c/MissRuby/featured)
-* [Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)
-* [The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)
-* [Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)
-* [Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)
+### Learn Greek
+
+|Name|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
+|----|--------------|------------|-----------------|---------------|
+|[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|❌|✔️|✔️|✔️|
+|[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|✔️|✔️|✔️|✔️|
+|[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)|❌|✔️|✔️|✔️|
+|[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)|❔|❔|❔|❔|
+|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|❔|❔|❔|❔|
+|[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)|❔|❔|❔|❔|
+|[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)|❔|❔|❔|❔|
+|[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)|❔|❔|❔|❔|
+|[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)|❔|❔|❔|❔|
+|[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)|❔|❔|❔|❔|
+|[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)|❔|❔|❔|❔|
+|[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)|❔|❔|❔|❔|
+
+### Uncategorized
+
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured)
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured)
-* [Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured) - Videos are in Greek with Greek and English captions available.
 * [Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)
 * [Easy Languages](https://www.youtube.com/c/learnlanguages/featured)
 * [Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
 * [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
-* [The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)
 * [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
 * [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
 * [Greek Stories in HD for children to read along by BookBox](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6) - Has Greek and English subtitles.
