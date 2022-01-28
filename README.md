@@ -18,6 +18,10 @@ A curated repository of resources for learning Greek.
 * http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
   * http://greek.pgeorgalas.gr/Contents.asp
+* https://ohmysweetgreece.com/
+   1. The Greek Grammar Lab videos and pdfs
+   2. The Audio Stories activities for the levels A1/A2
+   3. Με αγάπη από την Αθήνα podcast for the levels B1/B2
 
 ## Tutors
 
