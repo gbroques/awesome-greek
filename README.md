@@ -73,20 +73,21 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 ### Learn Greek
 
-|Name|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
-|----|--------------|------------|-----------------|---------------|
-|[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|❌|✔️|✔️|✔️|
-|[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|✔️|✔️|✔️|✔️|
-|[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)|❌|✔️|✔️|✔️|
-|[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)|❔|❔|❔|❔|
-|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|❔|❔|❔|❔|
-|[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)|❔|❔|❔|❔|
-|[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)|❔|❔|❔|❔|
-|[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)|❔|❔|❔|❔|
-|[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)|❔|❔|❔|❔|
-|[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)|❔|❔|❔|❔|
-|[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)|❔|❔|❔|❔|
-|[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)|❔|❔|❔|❔|
+|Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
+|----|-----------|--------------|------------|-----------------|---------------|
+|[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Videos are mostly in Greek.|❌|✔️|✔️|✔️|
+|[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Videos are mostly in Greek.|✔️|✔️|✔️|✔️|
+|[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)||❌|✔️|✔️|✔️|
+|[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)||❔|❔|❔|❔|
+|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|Instruction is mostly English.|❔|❔|❔|❔|
+|[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)||❔|❔|❔|❔|
+|[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)||❔|❔|❔|❔|
+|[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)||❔|❔|❔|❔|
+|[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)||❔|❔|❔|❔|
+|[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)||❔|❔|❔|❔|
+|[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)||❔|❔|❔|❔|
+|[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❔|❔|
+|[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
 
 ### Uncategorized
 
