@@ -91,9 +91,18 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 ### Uncategorized
 
-* [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured)
+Roughly in order of level of difficulty (i.e. A1 - C1).
+
+* [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
+* [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek with subtitles.
+* [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
+* [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
+* [Greek Stories in HD for children to read along by BookBox](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6) - Has Greek and English subtitles.
+* [Greek AniBooks by BookBox](https://www.youtube.com/watch?v=JbAmz_tWZqw&list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
+* [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
+* [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
+* [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
-* [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured)
 * [Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)
 * [Easy Languages](https://www.youtube.com/c/learnlanguages/featured)
 * [Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)
@@ -101,8 +110,6 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
 * [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
 * [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
-* [Greek Stories in HD for children to read along by BookBox](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6) - Has Greek and English subtitles.
-* [Greek AniBooks by BookBox](https://www.youtube.com/watch?v=JbAmz_tWZqw&list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
 * [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
 * [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
@@ -114,15 +121,10 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
-* [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
-* [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek with subtitles.
-* [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
-* [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
 * [Alpha Ωmega](https://www.youtube.com/c/AlphaOmegaGreece/featured) - videos about ancient Greek history, Greek mythology, archaeology, and more.
 * [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
 * [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
-* [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 
 ## Shows
 
