@@ -75,12 +75,13 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 |Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
 |----|-----------|--------------|------------|-----------------|---------------|
-|[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Videos are mostly in Greek.|❌|✔️|✔️|✔️|
-|[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Videos are mostly in Greek.|✔️|✔️|✔️|✔️|
+|[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Mostly in Greek.|❌|✔️|✔️|✔️|
+|[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Mostly in Greek.|✔️|✔️|✔️|✔️|
 |[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)||❌|✔️|✔️|✔️|
 |[Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)|Mostly in Greek.|✔️|✔️|✔️|✔️|
+|[Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)||✔️|✔️|❔|✔️|
 |[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)||❔|❔|❔|❔|
-|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|Instruction is mostly English.|❔|❔|❔|❔|
+|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|Mostly in English.|❔|❔|❔|❔|
 |[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)||❔|❔|❔|❔|
 |[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)||❔|❔|❔|❔|
 |[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)||❔|❔|❔|❔|
@@ -106,7 +107,6 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 * [Easy Languages](https://www.youtube.com/c/learnlanguages/featured)
-* [Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
 * [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
 * [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
