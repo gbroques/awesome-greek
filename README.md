@@ -11,7 +11,6 @@ A curated repository of resources for learning Greek.
 
 * [Websites](#websites)
 * [Tutors](#tutors)
-* [Audio Courses](#audio-courses)
 * [Articles](#articles)
 * [Blogs](#blogs)
 * [Common Greek Proficiency Test](#common-greek-proficiency-test)
@@ -22,8 +21,9 @@ A curated repository of resources for learning Greek.
 * [Shows](#shows)
 * [Movies](#movies)
 * [Courses](#courses)
-* [Books](#books)
+* [Audio Courses](#audio-courses)
 * [Open Courses](#open-courses)
+* [Books](#books)
 * [Comprehensible Input](#comprehensible-input)
 
 ## Websites
@@ -47,10 +47,6 @@ A curated repository of resources for learning Greek.
 
 * [Preply: St. Louis, MO Greek Tutors](https://preply.com/en/St-Louis-MO/greek-tutors)
 * [italki](https://www.italki.com/)
-
-## Audio Courses
-
-* [Complete Greek - Language Transfer](https://www.languagetransfer.org/greek)
 
 ## Articles
 
@@ -172,6 +168,16 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Greek for you A1](https://ellinognosia.com/courses/greek-for-you-a1/)
 * [Greek Medio-Passive Voice Explained](https://labs.ikindalikelanguages.com/courses.php?id=58)
 
+## Audio Courses
+
+* [Complete Greek - Language Transfer](https://www.languagetransfer.org/greek)
+
+## Open Courses
+
+* [Open Courses - National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/modules/course_metadata/opencourses.php?fc=42)
+    * [Wind Energy - Video Lesson (Αιολική Ενέργεια - Βιντεομάθημα)](https://ocw.aoc.ntua.gr/courses/MECH108/)
+    * [Air elasticity with application to wind turbines (Αεροελαστικότητα με εφαρμογή σε ανεμογεννήτριες)](https://ocw.aoc.ntua.gr/courses/MECH117/)
+
 ## Books
 
 * [General Secretariat for Lifelong Learning](http://www.gsae.edu.gr/en/)
@@ -185,12 +191,6 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
 * ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
 * https://free-ebooks.gr/
-
-## Open Courses
-
-* [Open Courses - National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/modules/course_metadata/opencourses.php?fc=42)
-    * [Wind Energy - Video Lesson (Αιολική Ενέργεια - Βιντεομάθημα)](https://ocw.aoc.ntua.gr/courses/MECH108/)
-    * [Air elasticity with application to wind turbines (Αεροελαστικότητα με εφαρμογή σε ανεμογεννήτριες)](https://ocw.aoc.ntua.gr/courses/MECH117/)
 
 ## [Comprehensible Input](https://en.wikipedia.org/wiki/Input_hypothesis)
 
