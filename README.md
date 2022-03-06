@@ -23,7 +23,6 @@ A curated repository of resources for learning Greek.
 * [Movies](#movies)
 * [Courses](#courses)
 * [Books](#books)
-* [Audio Books](#audio-books)
 * [Open Courses](#open-courses)
 * [Comprehensible Input](#comprehensible-input)
 
@@ -186,10 +185,6 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
 * ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
 * https://free-ebooks.gr/
-
-## Audio Books
-
-* [Harry Potter and the Philosopher's Stone (Ο Χάρι Πότερ και η Φιλοσοφική Λίθος)](https://www.youtube.com/playlist?list=PLlo9XzyXB5avcTWJW_nuU_Eq0wxfYjwg0)
 
 ## Open Courses
 
