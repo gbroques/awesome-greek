@@ -162,6 +162,7 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 
 * [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
 * [BBC Learning Zone - Talk Greek 1](https://www.youtube.com/watch?v=0nq7-r0wNb4)
+* [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
 
 ## Courses
 
