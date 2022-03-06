@@ -91,6 +91,8 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 #### Learn Greek
 
+YouTube channels about learning Greek as a second language.
+
 |Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
 |----|-----------|:------------:|:----------:|:---------------:|:-------------:|
 |[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Mostly in Greek.|❌|✔️|✔️|✔️|
