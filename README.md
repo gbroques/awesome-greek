@@ -99,6 +99,7 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
 * [Greek Stories in HD for children to read along by BookBox](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6) - Has Greek and English subtitles.
 * [Greek AniBooks by BookBox](https://www.youtube.com/watch?v=JbAmz_tWZqw&list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
+* [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
