@@ -7,6 +7,27 @@ A curated repository of resources for learning Greek.
 * [Vocabulary (Λεξιλόγιο)](./vocabularly.md)
 * [Grammar (Γραμματική)](./grammar.md)
 
+## Table of Contents
+
+* [Websites](#websites)
+* [Tutors](#tutors)
+* [Audio Courses](#audio-courses)
+* [Articles](#articles)
+* [Blogs](#blogs)
+* [Common Greek Proficiency Test](#common-greek-proficiency-test)
+* [Podcasts](#podcasts)
+* [Greek Radio](#greek-radio)
+* [Music](#music)
+* [YouTube Channels](#youtube-channels)
+* [Shows](#shows)
+* [Movies](#movies)
+* [Courses](#courses)
+* [Books](#books)
+* [Audio Books](#audio-books)
+* [YouTube Videos](#youtube-videos)
+* [Open Courses](#open-courses)
+* [Comprehensible Input](#comprehensible-input)
+
 ## Websites
 
 * [Duolingo](https://www.duolingo.com/)
