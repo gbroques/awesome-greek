@@ -18,13 +18,12 @@ A curated repository of resources for learning Greek.
 * [Podcasts](#podcasts)
 * [Greek Radio](#greek-radio)
 * [Music](#music)
-* [YouTube Channels](#youtube-channels)
+* [YouTube](#youtube)
 * [Shows](#shows)
 * [Movies](#movies)
 * [Courses](#courses)
 * [Books](#books)
 * [Audio Books](#audio-books)
-* [YouTube Videos](#youtube-videos)
 * [Open Courses](#open-courses)
 * [Comprehensible Input](#comprehensible-input)
 
@@ -91,9 +90,11 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Panik Records](https://panikmusic.gr/)
 * [Cobalt Music](http://www.cobaltmusic.gr/)
 
-## YouTube Channels
+## YouTube
 
-### Learn Greek
+### Channels
+
+#### Learn Greek
 
 |Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
 |----|-----------|--------------|------------|-----------------|---------------|
@@ -113,7 +114,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 |[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❔|❔|
 |[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
 
-### Uncategorized
+#### Uncategorized
 
 Roughly in order of level of difficulty (i.e. A1 - C1).
 
@@ -123,7 +124,6 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
 * [Greek Stories in HD for children to read along by BookBox](https://www.youtube.com/playlist?list=PLFB927EF9973C1CF6) - Has Greek and English subtitles.
 * [Greek AniBooks by BookBox](https://www.youtube.com/watch?v=JbAmz_tWZqw&list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
-* [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
 * [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
@@ -146,8 +146,17 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
 * [Alpha Ωmega](https://www.youtube.com/c/AlphaOmegaGreece/featured) - videos about ancient Greek history, Greek mythology, archaeology, and more.
 * [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
-* [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
+
+### Playlists
+
+* [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
+* [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
+
+
+### Videos
+
+* [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
 
 ## Shows
 
@@ -181,12 +190,6 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 ## Audio Books
 
 * [Harry Potter and the Philosopher's Stone (Ο Χάρι Πότερ και η Φιλοσοφική Λίθος)](https://www.youtube.com/playlist?list=PLlo9XzyXB5avcTWJW_nuU_Eq0wxfYjwg0)
-
-## YouTube Videos
-
-* [Fluent Forever Anki tutorials](https://www.youtube.com/playlist?list=PL6iffsHU8hUkLHWIm-OmNc4uUwuiFlFq-)
-  * [Fluent Forever Book: The Gallery](https://blog.fluent-forever.com/gallery/)
-* [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
 
 ## Open Courses
 
