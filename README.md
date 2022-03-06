@@ -45,7 +45,7 @@ A curated repository of resources for learning Greek.
 
 ## Tutors
 
-* [Preply: St. Louis, MO Greek Tutors](https://preply.com/en/St-Louis-MO/greek-tutors)
+* [Preply](https://preply.com/)
 * [italki](https://www.italki.com/)
 
 ## Articles
@@ -64,7 +64,7 @@ A curated repository of resources for learning Greek.
 
 ## Common Greek Proficiency Test
 
-The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one’s knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
+The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one's knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
 
 ## Podcasts
 
