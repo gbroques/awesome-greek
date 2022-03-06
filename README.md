@@ -92,7 +92,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 #### Learn Greek
 
 |Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
-|----|-----------|--------------|------------|-----------------|---------------|
+|----|-----------|:------------:|:----------:|:---------------:|:-------------:|
 |[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Mostly in Greek.|❌|✔️|✔️|✔️|
 |[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Mostly in Greek.|✔️|✔️|✔️|✔️|
 |[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)||❌|✔️|✔️|✔️|
