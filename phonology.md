@@ -104,7 +104,7 @@ When the /ev/ sound comes before a /v/ sound, and the /ef/ sound comes before an
 ### Consonant Digraphs
 A [digraph](https://en.wikipedia.org/wiki/Digraph_(orthography)) is a combination of two letters representing one sound.
 
-* μρ, ντ, γκ / γγ
+* μπ, ντ, γκ / γγ
   * /b/, /d/, /g/ when:
     * at the beginning of a word
     * after a consonant (which is usually ρ)
@@ -115,7 +115,7 @@ A [digraph](https://en.wikipedia.org/wiki/Digraph_(orthography)) is a combinatio
 
 |Digraph|IPA|Example Words|
 |-------|---|-------------|
-|μρ|/b/ or /mb/|μπαλά κάμπος|
+|μπ|/b/ or /mb/|μπαλά κάμπος|
 |ντ|/d/ or /nd/|ντουλάπα πάντα|
 |γκ|/g/ or /ŋg/|γκαρίζω παγκάκι|
 |γγ|/ŋg/|αγγαρεία άγγελος αγγείο εγγόνι αγγούρι|
