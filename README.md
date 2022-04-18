@@ -99,17 +99,17 @@ YouTube channels about learning Greek as a second language.
 |[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Mostly in Greek.|✔️|✔️|✔️|✔️|
 |[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)||❌|✔️|✔️|✔️|
 |[Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)|Mostly in Greek.|✔️|✔️|✔️|✔️|
-|[Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)||✔️|✔️|❔|✔️|
-|[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)||❔|❔|❔|❔|
-|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|Mostly in English.|❔|❔|❔|❔|
-|[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)||❔|❔|❔|❔|
-|[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)||❔|❔|❔|❔|
-|[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)||❔|❔|❔|❔|
-|[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)||❔|❔|❔|❔|
-|[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)||❔|❔|❔|❔|
-|[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)||❔|❔|❔|❔|
-|[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❔|❔|
+|[Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)||✔️|✔️|✔️|✔️|
+|[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)||❔|❔|✔️|✔️|
+|[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)|Mostly in English.|❔|❔|❌|❌|
+|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|Mostly in English.|❔|❔|❌|❌|
+|[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)||❔|❔|❌|❌|
+|[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)|Mostly in English.|❔|❔|❌|❌|
+|[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)||❔|❔|❌|❌|
+|[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)||❔|❔|✔️|❌|
+|[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❌|❌|
 |[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
+|[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)||❔|❔|❌|❌|
 
 #### Uncategorized
 
