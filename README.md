@@ -128,6 +128,7 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
 * [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
 * [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
+* [IT'S JUST PHYSICS by Christos Kiriakidis](https://www.youtube.com/channel/UCpH39b2-3Qr7HmpJw7PejLQ) - videos about Physics in Greek.
 * [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
 * [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
