@@ -18,6 +18,7 @@ A curated repository of resources for learning Greek.
 * [Greek Radio](#greek-radio)
 * [Music](#music)
 * [YouTube](#youtube)
+* [Streaming Websites](#streaming-websites)
 * [Shows](#shows)
 * [Movies](#movies)
 * [Courses](#courses)
@@ -153,6 +154,11 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 ### Videos
 
 * [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
+
+## Streaming Websites
+
+* https://www.megatv.com/
+* https://ertflix.gr/
 
 ## Shows
 
