@@ -71,9 +71,11 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
 * [Hellenic American Union: Learning Greek Podcasts](https://www.hau.gr/?i=learning.en.podcasts-in-greek)
-* [Spotify — Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
-* [Omilo - Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek
+* [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
+* [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek
+  * Note: YouTube videos of podcast has Greek subtitles.
 * [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/)
+* [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 
 ## Greek Radio
 
