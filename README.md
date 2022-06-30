@@ -147,6 +147,8 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Alpha Ωmega](https://www.youtube.com/c/AlphaOmegaGreece/featured) - videos about ancient Greek history, Greek mythology, archaeology, and more.
 * [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
+* [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
+* [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
 
 ### Playlists
 
