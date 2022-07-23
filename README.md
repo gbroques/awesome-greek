@@ -43,6 +43,7 @@ A curated repository of resources for learning Greek.
    2. The Audio Stories activities for the levels A1/A2
    3. Με αγάπη από την Αθήνα podcast for the levels B1/B2
 * [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
+* [Παιδικά Παραμύθια (Children's Tales)](https://www.paidika-paramythia.gr/) - a modern, mobile and tablet friendly website, with short and long myths and classic tales.
 
 ## Tutors
 
