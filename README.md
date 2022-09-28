@@ -170,6 +170,7 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 
 * [Πέππα το γουρουνάκι](https://www.youtube.com/playlist?list=PLQ17oChB0XEKywkOIXPQqbl_BP4XnAfPG) (Peppa Pig) - on YouTube with Greek subtitles.
   * [Πέππα το Γουρουνάκι - επίσημο κανάλι](https://www.youtube.com/channel/UCkiXi3X7fGie4Now_0a5vtA/videos)
+* [Χάιντι, η σειρά Official - on YouTube](https://www.youtube.com/channel/UC2f9gM6oV2JmcPwAUHcTESA/videos)
 
 ## Movies
 
