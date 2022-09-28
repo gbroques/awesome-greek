@@ -182,6 +182,7 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
 * [Βόρεια Εύβοια, Το Σχέδιο, 1ο Μέρος: "8 δέκατα και αναφορά", english subs North Evia, the Plan, Pt 1](https://www.youtube.com/watch?v=JLJT7dpqyHs) - Independent documentary about how and why North Evia got burned in the fires of August 2021. This is the Part 1, addressing the "HOW". Soon the second part will be ready, addressing "WHY".
 * [Athos - Mount Athos Monk's Republic Documentary](https://www.youtube.com/watch?v=U5pwfLRI-R8) - Mount Athos on a peninsula off the cost of Greece is one of Europe's last remaining secrets: a monks' republic. Access to women is strictly denied and in order to keep unwanted tourists out, visas are granted only to pilgrims and workers. For the first time, a filmmaker was given access to all forms of monastic life on the holy mountain.
+* [Greek Movies with English Subtitles](https://www.youtube.com/playlist?list=PLqwpFoCUvN-qqxNe96CKurYm0CQfhoCn7) - YouTube Playlist
 
 ## Courses
 
