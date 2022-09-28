@@ -79,6 +79,8 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/)
 * [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 * [Science Talks](https://anchor.fm/science-talks-ucy/episodes/1-eme0cd/a-a3qrtr2) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
+* [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
+* [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 
 ## Greek Radio
 
