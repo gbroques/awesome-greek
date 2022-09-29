@@ -129,7 +129,7 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
-* [Greek Fairy Tales](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
+* [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 * [Easy Languages](https://www.youtube.com/c/learnlanguages/featured)
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
