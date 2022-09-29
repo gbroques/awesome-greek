@@ -124,6 +124,7 @@ YouTube channels about learning Greek as a second language.
 Roughly in order of level of difficulty (i.e. A1 - C1).
 
 * [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
+  * [Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
 * [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek with subtitles.
 * [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
 * [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
