@@ -111,7 +111,7 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 |----|-----------|:------------:|:----------:|:---------------:|:-------------:|
 |[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Mostly in Greek.|❌|✔️|✔️|✔️|
 |[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Mostly in Greek.|✔️|✔️|✔️|✔️|
-|[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)||❌|✔️|✔️|✔️|
+|[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)|Mostly in Greek|❌|✔️|✔️|✔️|
 |[Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)|Mostly in Greek.|✔️|✔️|✔️|✔️|
 |[Glossonauts](https://www.youtube.com/channel/UCINsXyEc5VkLzxY3dY4NUVA/videos)|Mostly in Greek.|❌|✔️|✔️|✔️|
 |[Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)||✔️|✔️|✔️|✔️|
@@ -125,10 +125,9 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 |[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❌|❌|
 |[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
 |[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)||❔|❔|❌|❌|
+|[Lingo Jump Channel - Greek](https://www.youtube.com/c/LingoJumpChannel/search?query=Greek)|❔|❔|❔|❔|❔|
 
-#### Uncategorized
-
-Roughly in order of level of difficulty (i.e. A1 - C1).
+#### Children
 
 * [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
   * [Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
@@ -139,28 +138,41 @@ Roughly in order of level of difficulty (i.e. A1 - C1).
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
 * [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
-* [Easy Languages](https://www.youtube.com/c/learnlanguages/featured)
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
-* [Lingo Jump Channel](https://www.youtube.com/c/LingoJumpChannel/featured)
-* [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
+
+#### Science
+
 * [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
-* [IT'S JUST PHYSICS by Christos Kiriakidis](https://www.youtube.com/channel/UCpH39b2-3Qr7HmpJw7PejLQ) - videos about Physics in Greek.
-* [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
-* [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
-* [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
-* [jimkokko5](https://www.youtube.com/c/jimkokko5/featured) - Programming and technology videos in Greek.
-* [Tech and Code In Greek](https://www.youtube.com/c/TechandCodeInGreek/featured) - Programming and technology videos in Greek.
-* [Science Behind Music](https://www.youtube.com/c/ScienceBehindMusic/featured) - videos about the scientific aspects of music in Greek.
 * [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
-* [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
-* [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
-* [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
-* [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
+* [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
+* [IT'S JUST PHYSICS by Christos Kiriakidis](https://www.youtube.com/channel/UCpH39b2-3Qr7HmpJw7PejLQ) - videos about Physics in Greek.
+* [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
+* [Science Behind Music](https://www.youtube.com/c/ScienceBehindMusic/featured) - videos about the scientific aspects of music in Greek.
+
+#### History & Mythology
+
+* [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
 * [Alpha Ωmega](https://www.youtube.com/c/AlphaOmegaGreece/featured) - videos about ancient Greek history, Greek mythology, archaeology, and more.
 * [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
+* [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
+
+#### Programming & Technology
+
+* [jimkokko5](https://www.youtube.com/c/jimkokko5/featured) - Programming and technology videos in Greek.
+* [Tech and Code In Greek](https://www.youtube.com/c/TechandCodeInGreek/featured) - Programming and technology videos in Greek.
+* [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
+
+#### Food, Health, & Nutrition
+
+* [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
+* [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
+
+#### Uncategorized
+
+* [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
-* [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
+* [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 
 ### Playlists
 
