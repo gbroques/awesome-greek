@@ -101,12 +101,20 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 YouTube channels about learning Greek as a second language.
 
+Roughly in order of most useful to least useful where "useful" is measured by:
+
+1. amount of Videos
+2. quality of Videos
+3. whether their videos are mostly in Greek 
+4. and whether they inlcude both Greek and English subtitles.
+
 |Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
 |----|-----------|:------------:|:----------:|:---------------:|:-------------:|
 |[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Mostly in Greek.|❌|✔️|✔️|✔️|
 |[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Mostly in Greek.|✔️|✔️|✔️|✔️|
 |[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured)||❌|✔️|✔️|✔️|
 |[Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)|Mostly in Greek.|✔️|✔️|✔️|✔️|
+|[Glossonauts](https://www.youtube.com/channel/UCINsXyEc5VkLzxY3dY4NUVA/videos)|Mostly in Greek.|❌|✔️|✔️|✔️|
 |[Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)||✔️|✔️|✔️|✔️|
 |[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)||❔|❔|✔️|✔️|
 |[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)|Mostly in English.|❔|❔|❌|❌|
