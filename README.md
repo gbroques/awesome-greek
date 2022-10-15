@@ -71,7 +71,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 ## Podcasts
 
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
-* [Hellenic American Union: Learning Greek Podcasts](https://www.hau.gr/?i=learning.en.podcasts-in-greek)
+* [Hellenic American Union: Learning Greek Podcasts](https://archive.org/details/podcast_learning-greek-podcasts-from-t_126265773)
 * [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 * [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek
   * Note: YouTube videos of podcast has Greek subtitles.
@@ -80,12 +80,13 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Science Talks](https://anchor.fm/science-talks-ucy/episodes/1-eme0cd/a-a3qrtr2) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
 * [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
 * [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
+* [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
 
 ## Greek Radio
 
 * [https://www.e-radio.gr/](https://www.e-radio.gr/)
 * [https://www.ert.gr/](https://www.ert.gr/)
-* [Special Broadcasting Services (SBS) Greek](https://www.sbs.com.au/language/greek/en)
+* [Special Broadcasting Services (SBS) Greek - Radio](https://www.sbs.com.au/language/greek/en/radio-program/greek/lcwhn4052)
 
 ## Music
 
