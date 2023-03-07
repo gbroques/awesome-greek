@@ -176,6 +176,7 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 * [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
+* [News247gr](https://www.youtube.com/@News247gr)
 
 ### Playlists
 
