@@ -266,3 +266,4 @@ Roughly in order of most useful to least useful where "useful" is measured by:
   * [(Unofficial) Greek Stories – Directory](https://forum.duolingo.com/comment/39343090)
 * [Greek Mythology - Stories of ancient mythological heroes and gods.](http://www.ilearngreek.com/mythology/greek_mythology.asp)
 * [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts, written and oral, for learning Greek as a second language.
+* [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
