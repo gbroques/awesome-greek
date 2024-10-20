@@ -71,6 +71,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 
 ## Podcasts
 
+* [Super Easy Greek for Beginners](https://beginners.easygreek.fm/)
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
 * [Hellenic American Union: Learning Greek Podcasts](https://archive.org/details/podcast_learning-greek-podcasts-from-t_126265773)
 * [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
