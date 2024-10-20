@@ -128,6 +128,7 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 |[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
 |[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)||❔|❔|❌|❌|
 |[Lingo Jump Channel - Greek](https://www.youtube.com/c/LingoJumpChannel/search?query=Greek)|❔|❔|❔|❔|❔|
+|[my greek podcast](https://www.youtube.com/@mygreekpodcast)|a slow greek podcast for fast greek learning|❌|✔️|✔️|✔️|
 
 #### Children
 
