@@ -35,9 +35,6 @@ Thus, resources for learning languages in general will also not be included.
 
 ## Websites
 
-* [Duolingo](https://www.duolingo.com/)
-* [Memrise](https://app.memrise.com/courses/english/greek/)
-* [Clozemaster](https://www.clozemaster.com/l/ell-eng)
 * [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
 * [Filoglossia - Learning Greek as a foreign language](http://www.xanthi.ilsp.gr/filog/default.htm)
   * [Sitemap](http://www.xanthi.ilsp.gr/filog/sitemap.htm)
@@ -199,6 +196,9 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 
 ## Apps
 
+* [Duolingo](https://www.duolingo.com/)
+* [Memrise](https://app.memrise.com/courses/english/greek/)
+* [Clozemaster](https://www.clozemaster.com/l/ell-eng)
 * [Greece TV & Radio](https://play.google.com/store/apps/details?id=com.grtvradio) - Watch and listen to free Greek TV and Radio channels using only your internet and your mobile / tablet.
 
 ## Shows
