@@ -81,6 +81,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 * [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
 * [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
+* [Unlocking Greek potential](https://unlockinggreekpotential.com/) - a complete guide to learning Greek for beginners feauting Yiuli teaching Greek to Ellis. Over 50 episodes around 20 minutes each in English.
 
 ## Greek Radio
 
