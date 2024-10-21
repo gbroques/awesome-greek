@@ -18,7 +18,6 @@ Thus, resources for learning languages in general will also not be included.
 * [Websites](#websites)
 * [Articles](#articles)
 * [Blogs](#blogs)
-* [Common Greek Proficiency Test](#common-greek-proficiency-test)
 * [Podcasts](#podcasts)
 * [Greek Radio](#greek-radio)
 * [Music](#music)
@@ -32,6 +31,7 @@ Thus, resources for learning languages in general will also not be included.
 * [Open Courses](#open-courses)
 * [Books](#books)
 * [Comprehensible Input](#comprehensible-input)
+* [Common Greek Proficiency Test](#common-greek-proficiency-test)
 
 ## Websites
 
@@ -61,10 +61,6 @@ Thus, resources for learning languages in general will also not be included.
 
 * [Greek Grammar Blog (tumblr)](https://greek-grammar-blog.tumblr.com/) - 1st 5 articles focus on passive voice.
 * https://blogs.transparent.com/greek/
-
-## Common Greek Proficiency Test
-
-The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one's knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
 
 ## Podcasts
 
@@ -271,3 +267,7 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 * [Greek Mythology - Stories of ancient mythological heroes and gods.](http://www.ilearngreek.com/mythology/greek_mythology.asp)
 * [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts, written and oral, for learning Greek as a second language.
 * [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
+
+## Common Greek Proficiency Test
+
+The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utility.html) is the only officially recognized certificate that confirms the knowledge of Greek as a second language. It offers a professional opinion of one's knowledge of Greek, and serves as proof of the level of attainment in Greek in the work market.
