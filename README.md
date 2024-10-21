@@ -82,6 +82,7 @@ The [Certificate of Attainment in Greek](https://stephanus.tlg.uci.edu/CAG/utili
 * [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
 * [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
 * [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
+* [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
 * [Unlocking Greek potential](https://unlockinggreekpotential.com/) - a complete guide to learning Greek for beginners feauting Yiuli teaching Greek to Ellis. Over 50 episodes around 20 minutes each in English.
 
 ## Greek Radio
