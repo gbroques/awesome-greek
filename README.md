@@ -122,6 +122,7 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 |[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)||❔|❔|❌|❌|
 |[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)|Mostly in English.|❔|❔|❌|❌|
 |[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)||❔|❔|❌|❌|
+|[Elena Efthimiou](https://www.youtube.com/@elenaefthimiou)|Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.|✔️|✔️|❌|✔️|
 |[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)||❔|❔|✔️|❌|
 |[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❌|❌|
 |[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
