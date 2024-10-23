@@ -176,6 +176,7 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
+  * [Μαθήματα Επιβίωσης στα Βουνά της Βόρειας Ελλάδας](https://www.youtube.com/playlist?list=PLesiP49zG6sk3CrJ10tsJ0X_n2SAjedFe) (Survival Courses in the Mountains of Northern Greece)
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
 * [News247gr](https://www.youtube.com/@News247gr)
