@@ -64,15 +64,16 @@ Thus, resources for learning languages in general will also not be included.
 
 ## Podcasts
 
-* [Super Easy Greek for Beginners](https://beginners.easygreek.fm/)
-* [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/)
-* [Hellenic American Union: Learning Greek Podcasts](https://archive.org/details/podcast_learning-greek-podcasts-from-t_126265773)
+* [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a membership.
+* [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
+* [Hellenic American Union: Learning Greek Podcasts](https://archive.org/details/podcast_learning-greek-podcasts-from-t_126265773) - **Link is broken.**
 * [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
-* [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek
-  * Note: YouTube videos of podcast has Greek subtitles.
-* [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/)
-* [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
-* [Science Talks](https://anchor.fm/science-talks-ucy/episodes/1-eme0cd/a-a3qrtr2) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
+* [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek. Transcripts available for purchase.
+  * **Note:** YouTube videos of podcast has Greek subtitles.
+* 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
+* 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
+* [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
+* [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
 * [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
 * [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 * [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
