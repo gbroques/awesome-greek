@@ -108,27 +108,40 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 3. whether their videos are mostly in Greek 
 4. and whether they inlcude both Greek and English subtitles.
 
-|Name|Description|English Videos|Greek Videos|English Subtitles|Greek Subtitles|
-|----|-----------|:------------:|:----------:|:---------------:|:-------------:|
-|[The Online Greek Tutor](https://www.youtube.com/c/Theonlinegreektutor/featured)|Mostly in Greek.|❌|✔️|✔️|✔️|
-|[Do You Speak Greek?](https://www.youtube.com/c/DoYouSpeakGreek/featured)|Mostly in Greek.|✔️|✔️|✔️|✔️|
-|[Easy Greek](https://www.youtube.com/c/EasyGreekVideos/featured) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)|Mostly in Greek|❌|✔️|✔️|✔️|
-|[Linguatree](https://www.youtube.com/channel/UCPqHlUAC__nD0_-OTNA4G5Q)|Mostly in Greek.|✔️|✔️|✔️|✔️|
-|[Glossonauts](https://www.youtube.com/channel/UCINsXyEc5VkLzxY3dY4NUVA/videos)|Mostly in Greek.|❌|✔️|✔️|✔️|
-|[Learn Greek with Katerina](https://www.youtube.com/c/LearnGreekwithKaterina/featured)||✔️|✔️|✔️|✔️|
-|[Learn Greek with Zoi](https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/featured)||❔|❔|✔️|✔️|
-|[greek lessons online](https://www.youtube.com/c/greeklessonsonlinevideos/featured)|Mostly in English.|❔|❔|❌|❌|
-|[Learn Greek with Lina](https://www.youtube.com/c/linaaaap1/featured)|Mostly in English.|❔|❔|❌|❌|
-|[Learn Greek with GreekPod101.com](https://www.youtube.com/c/greekpod101/featured)||❔|❔|❌|❌|
-|[Helinika - Greek Language, History & Culture](https://www.youtube.com/channel/UCfm2XWQPXHtjN9ptZrjxwuQ/featured)|Mostly in English.|❔|❔|❌|❌|
-|[Omilo Greek Language and Culture](https://www.youtube.com/c/OmiloHellas/featured)||❔|❔|❌|❌|
-|[Elena Efthimiou](https://www.youtube.com/@elenaefthimiou)|Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.|✔️|✔️|❌|✔️|
-|[The Greek Online School](https://www.youtube.com/c/GreekLessonsOnLine/featured)||❔|❔|✔️|❌|
-|[Miss Ruby](https://www.youtube.com/c/MissRuby/featured)||❔|❔|❌|❌|
-|[greek2go by Rita Dana](https://www.youtube.com/channel/UCFTJFRyQhIT-vaQ8GpMkC6w/videos)|Mixes Greek and English in the same video.|✔️|✔️|❌|❌|
-|[Ρίτα Κουκουλάκη](https://www.youtube.com/channel/UCxQUJp_kaU8UnNw9Z7ROekQ/featured)||❔|❔|❌|❌|
-|[Lingo Jump Channel - Greek](https://www.youtube.com/c/LingoJumpChannel/search?query=Greek)|❔|❔|❔|❔|❔|
-|[my greek podcast](https://www.youtube.com/@mygreekpodcast)|a slow greek podcast for fast greek learning|❌|✔️|✔️|✔️|
+The below emojis denote the following:
+
+* 💬🇬🇷 - Greek subtitles
+* 💬🇬🇧 - English subtitles
+* 💬🇬🇷🇬🇧 - Greek & English subtitles
+
+
+In Greek:
+
+* 💬🇬🇷🇬🇧 [The Online Greek Tutor](https://www.youtube.com/@Theonlinegreektutor)
+* 💬🇬🇷🇬🇧 [Do You Speak Greek?](https://www.youtube.com/@DoYouSpeakGreek)
+* 💬🇬🇷🇬🇧 [Easy Greek](https://www.youtube.com/c/EasyGreekVideos) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)
+* 💬🇬🇷🇬🇧 [Linguatree](https://www.youtube.com/@Linguatree)
+* 💬🇬🇷🇬🇧 [Learn Greek with Katerina](https://www.youtube.com/@learngreekwithkaterina)
+* 💬🇬🇷🇬🇧 [Learn Greek with Zoi](https://www.youtube.com/@learngreekwithzoi9509)
+* 💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
+* 💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
+* 💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
+
+In Greek & English:
+
+* [Helinika](https://www.youtube.com/@helinika) - Mostly in English, but features [some Greek videos with subtitles](https://www.youtube.com/watch?v=OqhRriM4yKM&list=PLF0mvBWCfPlN3-Gpx6cKhjn7wRjy3zc_J&pp=iAQB), [stories in Greek](https://www.youtube.com/watch?v=E6bOZ4_WcZs&list=PLF0mvBWCfPlNa6s9L-UQsGHMjDvpYAjEg&pp=iAQB), and more!
+* [Omilo Greek Language and Culture](https://www.youtube.com/@OmiloHellas) - Mostly in English, but features [stories in Greek with subtitles](https://www.youtube.com/watch?v=3YdGcYjPfbE&list=PLjg3sKfCihkpEsorILFJ7q7Gk6bZJijiA&pp=iAQB).
+* [Miss Ruby](https://www.youtube.com/@MissRuby) - Speaks both Greek & English within the same video without subtitles.
+* [greek2go by Rita Dana](https://www.youtube.com/@greek2go) - Speaks both Greek & English within the same video without subtitles.
+* [Lingo Jump Channel - Greek](https://www.youtube.com/c/LingoJumpChannel/search?query=Greek)
+
+In English:
+
+* [Learn Greek with GreekPod101.com](https://www.youtube.com/@GreekPod101)
+* [Learn Greek with Lina](https://www.youtube.com/@linaaaap1)
+* [The Greek Online School](https://www.youtube.com/@greekonlineschool)
+* [greek lessons online](https://www.youtube.com/@greeklessonsonlinevideos)
+* [Ρίτα Κουκουλάκη](https://www.youtube.com/@%CE%A1%CE%AF%CF%84%CE%B1%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7) - not active, and only 6 videos.
 
 #### Children
 
