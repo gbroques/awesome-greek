@@ -145,16 +145,15 @@ In English:
 
 #### Children
 
-* [Ναι Μπορώ](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ) - Stories for children in Greek with subtitles.
-  * [Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
-* [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek with subtitles.
+* 💬🇬🇷 [Ναι Μπορώ - Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
+* 💬🇬🇧 [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
+* [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
+* [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek. Some videos have subtitles, but it's inconsistent.
 * [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
 * [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
-* [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
-* [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
-* [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured)
+* [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured) - Teaches ancient and modern Greek. Has videos in English and Greek without subtitles.
 
 #### Science
 
