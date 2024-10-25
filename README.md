@@ -64,24 +64,26 @@ Thus, resources for learning languages in general will also not be included.
 
 ## Podcasts
 
+Roughly in order of lowest difficulty to highest difficulty:
+
 * [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a membership.
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
-* [Hellenic American Union: Learning Greek Podcasts](https://archive.org/details/podcast_learning-greek-podcasts-from-t_126265773) - **Link is broken.**
-* [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
+* [Unlocking Greek potential](https://unlockinggreekpotential.com/) - Yiuli teaches Greek to Ellis mostly in English. Over 50 episodes around 20 minutes each in English.
 * [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek. Transcripts available for purchase.
   * **Note:** YouTube videos of podcast has Greek subtitles.
+* [Hellenic American Union: Learning Greek Podcasts](https://web.archive.org/web/20210228043746/http://www.hau.gr/?i=learning.en.podcasts-in-greek)
+* [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
+* [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti. Not many episodes.
+* [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
+* [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
+* [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 * 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
 * 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 * [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
 * [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
-* [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
+* 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
 * [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 * [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
-* [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
-* [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
-* [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
-* [Unlocking Greek potential](https://unlockinggreekpotential.com/) - a complete guide to learning Greek for beginners feauting Yiuli teaching Greek to Ellis. Over 50 episodes around 20 minutes each in English.
-* [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti
 
 ## Greek Radio
 
