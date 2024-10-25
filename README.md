@@ -157,11 +157,11 @@ In English:
 
 #### Science
 
-* [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
+* 💬🇬🇷 -[Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
+* 💬🇬🇷 [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
 * [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
 * [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
 * [IT'S JUST PHYSICS by Christos Kiriakidis](https://www.youtube.com/channel/UCpH39b2-3Qr7HmpJw7PejLQ) - videos about Physics in Greek.
-* [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
 * [Science Behind Music](https://www.youtube.com/c/ScienceBehindMusic/featured) - videos about the scientific aspects of music in Greek.
 
 #### History & Mythology
