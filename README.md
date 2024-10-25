@@ -157,7 +157,7 @@ In English:
 
 #### Science
 
-* 💬🇬🇷 -[Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
+* 💬🇬🇷 [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
 * 💬🇬🇷 [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
 * [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
 * [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
@@ -185,6 +185,7 @@ In English:
 
 #### Uncategorized
 
+* 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
