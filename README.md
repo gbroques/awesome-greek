@@ -142,7 +142,7 @@ In English:
 
 #### Playlists
 
-* [Greek AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
+* 💬🇬🇷🇬🇧 [Greek AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
 * [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
 * [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
 
