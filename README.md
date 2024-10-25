@@ -116,6 +116,9 @@ The below emojis denote the following:
 * 💬🇬🇷 - Greek subtitles
 * 💬🇬🇧 - English subtitles
 * 💬🇬🇷🇬🇧 - Greek & English subtitles
+* 🟩 - Beginner
+* 🟧 - Intermediate
+* 🟥 - Advanced
 
 
 In Greek:
