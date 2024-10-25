@@ -170,7 +170,7 @@ In English:
 * [Alpha Ωmega](https://www.youtube.com/c/AlphaOmegaGreece/featured) - videos about ancient Greek history, Greek mythology, archaeology, and more.
 * [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
 * [Lab of Mystery](https://www.youtube.com/channel/UCOZw1EA8YyfItoBJ7jyVU0A/featured) - videos about esotericism, alternative history, and mysticism.
-* [Ιστορικοί Περίπατοι (Historical Walks)](https://www.youtube.com/channel/UCh1a__TpiJkqOfVG9fAsggg/videos) - Επιλεγμένες στιγμές της ιστορίας, άλλες γνωστές κι άλλες που δεν τις διδαχθήκαμε ποτέ, πρόσωπα και γεγονότα που στιγμάτισαν το παρελθόν και καθόρισαν το μέλλον! (Selected moments of history, some known and others we were never taught about, people and events that marked the past and determined the future!) **Contains Greek and English subtitles**.
+* [Ιστορικοί Περίπατοι (Historical Walks)](https://www.youtube.com/channel/UCh1a__TpiJkqOfVG9fAsggg/videos) - Επιλεγμένες στιγμές της ιστορίας, άλλες γνωστές κι άλλες που δεν τις διδαχθήκαμε ποτέ, πρόσωπα και γεγονότα που στιγμάτισαν το παρελθόν και καθόρισαν το μέλλον! (Selected moments of history, some known and others we were never taught about, people and events that marked the past and determined the future!) **Newer videos contain Greek and English subtitles**.
 
 #### Programming & Technology
 
