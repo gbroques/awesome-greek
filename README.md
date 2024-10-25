@@ -116,9 +116,10 @@ The below emojis denote the following:
 * 💬🇬🇷 - Greek subtitles
 * 💬🇬🇧 - English subtitles
 * 💬🇬🇷🇬🇧 - Greek & English subtitles
-* 🟩 - Beginner
-* 🟧 - Intermediate
-* 🟥 - Advanced
+* 🟩 - Absolute Beginner (A1): resources are mostly in English.
+* 🟨 - Beginner (A2): resources are mostly in *slow* easy-to-understand Greek.
+* 🟧 - Intermediate (B1 - B2)
+* 🟥 - Advanced (C1 - C2)
 
 
 In Greek:
