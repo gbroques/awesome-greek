@@ -247,6 +247,7 @@ In English:
 ## Books
 
 * [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
+   * Chapters in Greek can be downloaded from [http://moderngreek.eu/ from the web archive](https://web.archive.org/web/20211216114407/http://moderngreek.eu/).
 * [Modern Greek: Grammar Notes for Intermediate Learners](https://repository.kallipos.gr/handle/11419/13952) - A User-Friendly Grammar for Levels B1-B2 by Maria Poulopoulou
 * [General Secretariat for Lifelong Learning](http://www.gsae.edu.gr/en/)
   * [Greek Language Learning - A1](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
