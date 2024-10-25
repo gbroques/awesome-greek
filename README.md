@@ -178,7 +178,7 @@ In English:
 
 #### Food, Health, & Nutrition
 
-* [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
+* 💬🇬🇷🇬🇧 [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
 * [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
 
 #### Uncategorized
