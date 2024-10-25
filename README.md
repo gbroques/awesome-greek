@@ -281,6 +281,7 @@ In English:
 * [Greek Mythology - Stories of ancient mythological heroes and gods.](http://www.ilearngreek.com/mythology/greek_mythology.asp)
 * [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts, written and oral, for learning Greek as a second language.
 * [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
+* [LingQ Mini Stories](https://www.lingq.com/en/learn-greek-online/courses/270132/)
 
 ## Common Greek Proficiency Test
 
