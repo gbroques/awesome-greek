@@ -260,6 +260,7 @@ In English:
 * [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
 * ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
 * https://free-ebooks.gr/
+   * [Free ebooks tagged Παιδικά for children](https://free-ebooks.gr/tag/16)
 
 ## [Comprehensible Input](https://en.wikipedia.org/wiki/Input_hypothesis)
 
