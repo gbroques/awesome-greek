@@ -246,6 +246,7 @@ YouTube channels of audio books:
 
 ### Music
 
+* [Ελληνική Μουσική (Greek Music)](https://www.youtube.com/watch?v=VrX9IZ16iJY&list=PLesiP49zG6snsCDb1bCihhIgEPm4X4Lid) - A curated YouTube playlist by G Roques.
 * [Panik Records](https://panikmusic.gr/)
 * [Cobalt Music](http://www.cobaltmusic.gr/)
 
