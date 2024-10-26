@@ -297,7 +297,6 @@ Roughly in order of lowest difficulty to highest difficulty:
    * http://greek.pgeorgalas.gr/Contents.asp
 * [I Kind Like Languages: Greek Medio-Passive Voice](https://ikindalikelanguages.com/learn/ModernGreekTopic-MedioPassiveVoice)
 * ⬛ [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
-* [lingust.ru](https://lingust.ru/%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD/) - Greek lessons in Russian. Contains short dialogues and stories in Greek with audio at the end of most lessons.
 
 ### Apps
 
