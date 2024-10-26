@@ -203,20 +203,20 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟩 [Unlocking Greek potential](https://unlockinggreekpotential.com/) - Yiuli teaches Greek to Ellis mostly in English. Over 50 episodes around 20 minutes each in English.
 * 🟩🟨 [Hellenic American Union: Learning Greek Podcasts](https://web.archive.org/web/20210228043746/http://www.hau.gr/?i=learning.en.podcasts-in-greek)
 * 🟨 [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a membership.
-* [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
 * 🟨 [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek. Transcripts available for purchase.
   * **Note:** YouTube videos of podcast has Greek subtitles.
 * 🟨 [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
-* [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti. Not many episodes.
+* 🟨 [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti. Not many episodes.
 * 🟨 [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
 * 🟨 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
 * 🟨 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
+* 🟧 [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
 * 🟧 [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
 * 🟥 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
 * 🟥 [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
 * 🟥 [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
-* [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
-* [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
+* 🟥 [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
+* 🟥 [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 * 🟥 [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
 
 ### Radio
