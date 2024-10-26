@@ -88,21 +88,21 @@ In Greek & English:
 
 In Greek:
 
-* 🟨💬🇬🇷🇬🇧 [The Online Greek Tutor](https://www.youtube.com/@Theonlinegreektutor)
-* 🟨💬🇬🇷🇬🇧 [Do You Speak Greek?](https://www.youtube.com/@DoYouSpeakGreek)
-* 🟨💬🇬🇷🇬🇧 [Easy Greek](https://www.youtube.com/c/EasyGreekVideos) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)
-* 🟨💬🇬🇷🇬🇧 [Linguatree](https://www.youtube.com/@Linguatree)
-* 🟨💬🇬🇷🇬🇧 [Learn Greek with Katerina](https://www.youtube.com/@learngreekwithkaterina)
-* 🟨💬🇬🇷🇬🇧 [Learn Greek with Zoi](https://www.youtube.com/@learngreekwithzoi9509)
-* 🟨💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
-* 🟨💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
-* 🟨💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
+* 🟨 💬🇬🇷🇬🇧 [The Online Greek Tutor](https://www.youtube.com/@Theonlinegreektutor)
+* 🟨 💬🇬🇷🇬🇧 [Do You Speak Greek?](https://www.youtube.com/@DoYouSpeakGreek)
+* 🟨 💬🇬🇷🇬🇧 [Easy Greek](https://www.youtube.com/c/EasyGreekVideos) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)
+* 🟨 💬🇬🇷🇬🇧 [Linguatree](https://www.youtube.com/@Linguatree)
+* 🟨 💬🇬🇷🇬🇧 [Learn Greek with Katerina](https://www.youtube.com/@learngreekwithkaterina)
+* 🟨 💬🇬🇷🇬🇧 [Learn Greek with Zoi](https://www.youtube.com/@learngreekwithzoi9509)
+* 🟨 💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
+* 🟨 💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
+* 🟨 💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
 
 ##### Children
 
-* 🟨💬🇬🇷🇬🇧 [BookBox](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Animated stories for children (currently only 8 stories).
-* 🟨💬🇬🇷 [Ναι Μπορώ - Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
-* 🟨💬🇬🇧 [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
+* 🟨 💬🇬🇷🇬🇧 [BookBox](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Animated stories for children (currently only 8 stories).
+* 🟨 💬🇬🇷 [Ναι Μπορώ - Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
+* 🟨 💬🇬🇧 [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 * [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek. Some videos have subtitles, but it's inconsistent.
 * [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
@@ -134,27 +134,27 @@ In Greek:
 
 ##### Food, Health, & Nutrition
 
-* 💬🇬🇷🇬🇧 [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
+* 🟥 💬🇬🇷🇬🇧 [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
 * [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
 
 ##### Uncategorized
 
-* 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
-* 💬🇬🇧🟥 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
+* 🟥 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
+* 🟥 💬🇬🇧 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
-  * [Μαθήματα Επιβίωσης στα Βουνά της Βόρειας Ελλάδας](https://www.youtube.com/playlist?list=PLesiP49zG6sk3CrJ10tsJ0X_n2SAjedFe) (Survival Courses in the Mountains of Northern Greece)
+  * 🟥 [Μαθήματα Επιβίωσης στα Βουνά της Βόρειας Ελλάδας](https://www.youtube.com/playlist?list=PLesiP49zG6sk3CrJ10tsJ0X_n2SAjedFe) (Survival Courses in the Mountains of Northern Greece)
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
-* [News247gr](https://www.youtube.com/@News247gr)
+* 🟥 [News247gr](https://www.youtube.com/@News247gr)
 
 #### Videos
 
 * [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
-* 🟥💬🇬🇷🇬🇧 [Knowledge as a Common. Communities of production and sharing in Greece](https://www.youtube.com/watch?v=8iCZgZEYm0w)
-* 🟥💬🇬🇷🇬🇧 [Building Communities of Commons in Greece](https://www.youtube.com/watch?v=T5Uj-twO-zc) - A documentary on networks in the Sarantaporo area
-* 🟥💬🇬🇧 [Τzoumakers: A mountainous community of open source technologies](https://www.youtube.com/watch?v=Q66rciAJwQc)
+* 🟥 💬🇬🇷🇬🇧 [Knowledge as a Common. Communities of production and sharing in Greece](https://www.youtube.com/watch?v=8iCZgZEYm0w)
+* 🟥 💬🇬🇷🇬🇧 [Building Communities of Commons in Greece](https://www.youtube.com/watch?v=T5Uj-twO-zc) - A documentary on networks in the Sarantaporo area
+* 🟥 💬🇬🇧 [Τzoumakers: A mountainous community of open source technologies](https://www.youtube.com/watch?v=Q66rciAJwQc)
 
 ### Shows
 
@@ -207,8 +207,8 @@ Roughly in order of lowest difficulty to highest difficulty:
 * [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
 * [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
 * [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
-* 🟨💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
-* 🟨💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
+* 🟨 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
+* 🟨 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 * [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
 * [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
 * 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
@@ -286,7 +286,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 <a name="interactive-websites"></a>
 ### Websites
 
-* [Filoglossia - Learning Greek as a foreign language](http://www.xanthi.ilsp.gr/filog/default.htm)
+* 🟩 [Filoglossia - Learning Greek as a foreign language](http://www.xanthi.ilsp.gr/filog/default.htm)
    * [Sitemap](http://www.xanthi.ilsp.gr/filog/sitemap.htm)
 * http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
@@ -307,10 +307,9 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 ### Open Courses
 
-* [Open Courses - National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/modules/course_metadata/opencourses.php?fc=42)
+* 🟥 [Open Courses - National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/modules/course_metadata/opencourses.php?fc=42)
     * [Wind Energy - Video Lesson (Αιολική Ενέργεια - Βιντεομάθημα)](https://ocw.aoc.ntua.gr/courses/MECH108/)
     * [Air elasticity with application to wind turbines (Αεροελαστικότητα με εφαρμογή σε ανεμογεννήτριες)](https://ocw.aoc.ntua.gr/courses/MECH117/)
-
 
 ## Common Greek Proficiency Test
 
