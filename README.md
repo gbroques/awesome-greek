@@ -19,6 +19,7 @@ Ancient Greek resources will not be included.
 * [🎙️ Audio](#%EF%B8%8F-audio)
    * [Websites](#audio-websites)
    * [Podcasts](#podcasts)
+   * [Books](#audio-books)
    * [Radio](#radio)
    * [Music](#music)
 * [📄 Text](#-text)
@@ -187,8 +188,6 @@ Lists:
 * 🟨 [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 * 🟨 [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
 * 🟩🟨 [Oh my sweet Greece: Audio Stories](https://ohmysweetgreece.com/greek_audio_stories/) - requires signup to newsletter.
-* https://www.openbook.gr/category/audio-books/
-* https://www.ebooks4greeks.gr/tag/audiobooks
 
 ### Podcasts
 
@@ -214,6 +213,18 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟥 [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 * 🟥 [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
 * 🟥 [Top Greece Spotify Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
+
+<a name="audio-books"></a>
+### Books
+
+Specific audio-books:
+
+* 🟧 Τα Ψηλά Βουνά by Ζαχαρίας Παπαντωνίου | [Text](https://www.ebooks4greeks.gr/%CF%84%CE%B1-%CF%88%CE%B7%CE%BB%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%B1) / [Audio](https://librivox.org/ta-psila-vouna-by-zacharias-papantoniou/) - a group of children spend their summer in the mountains. By the end of the summer they learn to function as a community, protect the forest, and become more ecologically conscious.
+
+Repositories for audio books:
+
+* https://www.openbook.gr/category/audio-books/
+* https://www.ebooks4greeks.gr/tag/audiobooks
 
 ### Radio
 
