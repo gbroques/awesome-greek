@@ -250,8 +250,8 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 ### Blogs
 
-* [Greek Grammar Blog (tumblr)](https://greek-grammar-blog.tumblr.com/) - 1st 5 articles focus on passive voice.
-* https://blogs.transparent.com/greek/
+* 🟩 https://blogs.transparent.com/greek/
+* [Greek Grammar Blog (tumblr)](https://greek-grammar-blog.tumblr.com/) - articles on the passive voice, pronouns, cases, articles, and other aspects of Modern Greek grammar.
 
 ### Books
 
