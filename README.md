@@ -142,7 +142,6 @@ In Greek:
 * 🟥 💬🇬🇷 [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * 🟥 💬🇬🇷 [Mikeius Official](https://www.youtube.com/@MikeiusOfficial) - *some* videos have Greek subtitles.
 * 🟥 💬🇬🇷 [ΕΜΕΝΑ ΡΩΤΑ](https://www.youtube.com/@emenarota) - videos about the music industry.
-* 🟥 [Mikros Anagnostis](https://www.youtube.com/@Mikros_Anagnostis) - Reads audio books on YouTube.
 * 🟥 [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * 🟥 [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * 🟥 [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
@@ -225,11 +224,16 @@ Roughly in order of lowest difficulty to highest difficulty:
 Specific audio-books:
 
 * 🟧 Τα Ψηλά Βουνά by Ζαχαρίας Παπαντωνίου ([Text](https://www.ebooks4greeks.gr/%CF%84%CE%B1-%CF%88%CE%B7%CE%BB%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%B1) / [Audio](https://librivox.org/ta-psila-vouna-by-zacharias-papantoniou/)) - a group of children spend their summer in the mountains. By the end of the summer they learn to function as a community, protect the forest, and become more ecologically conscious.
+* 🟧 Τρελαντώνης by Πηνελόπη Δέλτα ([Text](https://www.ebooks4greeks.gr/%cf%84%cf%81%ce%b5%ce%bb%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b7%cf%82-%cf%80%ce%b7%ce%bd%ce%b5%ce%bb%ce%bf%cf%80%ce%b7-%ce%b4%ce%b5%ce%bb%cf%84%ce%b1) / [Audio](https://www.youtube.com/playlist?list=PL9OdfpXrr9TdKID2w2gskwnDnCUwhdsV6)) - Recounts the exciting summer that the author and her siblings had at the house of uncle George and aunt Marietta, in Piraeus. Four young children will bring the world upside down and shake the adult's balanced life, with their mischief. And among them, Antonis, who with his vividness, wit and temperament manages to make every day special: occasional walks to the sea, eventful English courses, damages, fights and punishments.
 
 Repositories for audio books:
 
 * https://www.openbook.gr/category/audio-books/
 * https://www.ebooks4greeks.gr/tag/audiobooks
+
+YouTube channels of audio books:
+* 🟥 [Mikros Anagnostis](https://www.youtube.com/@Mikros_Anagnostis)
+* 🟥 [Βιβλία από Ήχο](https://www.youtube.com/@vivlia_apo_ixo)
 
 ### Radio
 
