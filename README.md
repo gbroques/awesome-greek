@@ -128,7 +128,8 @@ In Greek:
 ##### Food, Health, & Nutrition
 
 * 🟥 💬🇬🇷🇬🇧 [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
-* 🟥 💬🇬🇷 [Panos Ioannidis](https://www.youtube.com/@PanosIoannidis)
+* 🟥 💬🇬🇷 [Panos Ioannidis](https://www.youtube.com/@PanosIoannidis) - Cooking
+* 🟥 💬🇬🇧 [Grandpa Tassos cooking](https://www.youtube.com/@GrandpaTassoscooking) - appears to have machine-generated translations.
 * 🟥 [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
 
 ##### Uncategorized
