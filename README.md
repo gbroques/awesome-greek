@@ -266,9 +266,9 @@ Roughly in order of lowest difficulty to highest difficulty:
   * 🟩 [Greek Language Learning - A1](https://web.archive.org/web/20230330180444/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
   * 🟨 [Greek Language Learning - A2](https://web.archive.org/web/20230330180444/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
   * [Elements of Greek History & Greek Culture](https://web.archive.org/web/20230401100537/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
-* [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
-* [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
-* [Γραμματική Νέας Ελληνικής Γλώσσας (Grammar of Modern Greek Language)](http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index.html)
+* 🟩🟨 [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
+* 🟩🟨 [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
+* 🟥 [Γραμματική Νέας Ελληνικής Γλώσσας (Grammar of Modern Greek Language)](http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index.html)
 * ⬛ [Books4Languages - Index](https://open.books4languages.com/multisite-index/)
 
 #### Repositories
