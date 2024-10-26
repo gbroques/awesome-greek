@@ -135,17 +135,17 @@ In Greek:
 ##### Food, Health, & Nutrition
 
 * 🟥 💬🇬🇷🇬🇧 [Stelios Pantazis](https://www.youtube.com/c/SteliosPantazis/featured) - videos about health and nutrition in Greek.
-* [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
+* 🟥 [Apollonas Kapsalis](https://www.youtube.com/c/ApollonasKapsalis/featured) - Greek Goes Keto. The largest channel for the Ketogenic Mediterranean diet.
 
 ##### Uncategorized
 
 * 🟥 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
 * 🟥 💬🇬🇧 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
-* [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
+* 🟥 💬🇬🇷 [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
+* 🟥 [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * 🟥 [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * 🟥 [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
   * [Μαθήματα Επιβίωσης στα Βουνά της Βόρειας Ελλάδας](https://www.youtube.com/playlist?list=PLesiP49zG6sk3CrJ10tsJ0X_n2SAjedFe) (Survival Courses in the Mountains of Northern Greece)
-* [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * 🟥 [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
 * 🟥 [News247gr](https://www.youtube.com/@News247gr)
 
@@ -192,6 +192,7 @@ Lists:
 * 🟨 [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
 * 🟨 [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 * 🟨 [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
+* 🟩🟨 [Oh my sweet Greece: Audio Stories](https://ohmysweetgreece.com/greek_audio_stories/) - requires signup to newsletter.
 * https://www.openbook.gr/category/audio-books/
 * https://www.ebooks4greeks.gr/tag/audiobooks
 
@@ -210,6 +211,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟨 [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
 * 🟨 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
 * 🟨 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
+* 🟧 💬🇬🇷 [Oh my sweet Greece: Με αγάπη από την Αθήνα podcast](https://ohmysweetgreece.com/greekpodcast/) - transcript available after email newsletter subscription.
 * 🟧 [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
 * 🟧 [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
 * 🟥 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
@@ -239,7 +241,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 * ⬛ [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts for learning Greek as a second language.
 * 🟨 [StoryWeaver (Greek)](https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance) - short stories for children.
 * 🟨 [Παιδικά Παραμύθια (Children's Tales)](https://www.paidika-paramythia.gr/) - a modern, mobile and tablet friendly website, with short and long myths and classic tales.
-* Peer-to-peer (P2P) in Greece
+* 🟥 Peer-to-peer (P2P) in Greece
   * https://www.p2plab.gr/en/
   * https://wiki.p2pfoundation.net/Greece
   * https://wiki.p2pfoundation.net/Category:Greece
@@ -295,10 +297,6 @@ Roughly in order of lowest difficulty to highest difficulty:
 * ⬛ http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
    * http://greek.pgeorgalas.gr/Contents.asp
-* https://ohmysweetgreece.com/
-   1. The Greek Grammar Lab videos and pdfs
-   2. The Audio Stories activities for the levels A1/A2
-   3. Με αγάπη από την Αθήνα podcast for the levels B1/B2
 * [I Kind Like Languages: Greek Medio-Passive Voice](https://ikindalikelanguages.com/learn/ModernGreekTopic-MedioPassiveVoice)
 * ⬛ [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
 * [lingust.ru](https://lingust.ru/%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD/) - Greek lessons in Russian. Contains short dialogues and stories in Greek with audio at the end of most lessons.
