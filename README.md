@@ -262,6 +262,8 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟩🟨 [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
    * Chapters in Greek can be downloaded from [http://moderngreek.eu/ from the web archive](https://web.archive.org/web/20211216114407/http://moderngreek.eu/).
 * 🟧 [Modern Greek: Grammar Notes for Intermediate Learners](https://repository.kallipos.gr/handle/11419/13952) - A User-Friendly Grammar for Levels B1-B2 by Maria Poulopoulou
+* 🟩🟨🟧 [Greek: An Essential Grammar](https://www.routledge.com/Greek-An-Essential-Grammar/Holton-Mackridge-Philippaki-Warburton-Georgiafentis/p/book/9781138930681)
+* 🟩🟨🟧 [Greek: A Comprehensive Grammar of the Modern Language](https://www.routledge.com/Greek-A-Comprehensive-Grammar-of-the-Modern-Language/Holton-Mackridge-Philippaki-Warburton-Spyropoulos/p/book/9780415592024)
 * [General Secretariat for Lifelong Learning](https://web.archive.org/web/20230401100537/http://gsae.edu.gr/en/)
   * 🟩 [Greek Language Learning - A1](https://web.archive.org/web/20230330180444/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
   * 🟨 [Greek Language Learning - A2](https://web.archive.org/web/20230330180444/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
