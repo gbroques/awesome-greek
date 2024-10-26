@@ -100,6 +100,7 @@ In Greek:
 
 ##### Children
 
+* 🟨💬🇬🇷🇬🇧 [BookBox](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Animated stories for children (currently only 8 stories).
 * 🟨💬🇬🇷 [Ναι Μπορώ - Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
 * 🟨💬🇬🇧 [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
@@ -139,6 +140,7 @@ In Greek:
 ##### Uncategorized
 
 * 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
+* 💬🇬🇧🟥 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
 * [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
@@ -146,12 +148,6 @@ In Greek:
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
 * [News247gr](https://www.youtube.com/@News247gr)
-
-#### Playlists
-
-* 🟨💬🇬🇷🇬🇧 [Greek AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
-* [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
-* [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
 
 #### Videos
 
@@ -165,6 +161,7 @@ In Greek:
 * 💬🇬🇷 [Πέππα το γουρουνάκι](https://www.youtube.com/playlist?list=PLQ17oChB0XEKywkOIXPQqbl_BP4XnAfPG) (Peppa Pig) - on YouTube with Greek subtitles.
   * [Πέππα το Γουρουνάκι - επίσημο κανάλι](https://www.youtube.com/channel/UCkiXi3X7fGie4Now_0a5vtA/videos)
 * [Χάιντι, η σειρά Official - on YouTube](https://www.youtube.com/channel/UC2f9gM6oV2JmcPwAUHcTESA/videos)
+* [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
 
 ### Streaming
 
