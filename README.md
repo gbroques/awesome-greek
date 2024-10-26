@@ -220,12 +220,11 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟥 [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
 * 🟥 [Top Greece Spotify Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 
-<a name="audio-books"></a>
-### Books
+### Audio books
 
 Specific audio-books:
 
-* 🟧 Τα Ψηλά Βουνά by Ζαχαρίας Παπαντωνίου | [Text](https://www.ebooks4greeks.gr/%CF%84%CE%B1-%CF%88%CE%B7%CE%BB%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%B1) / [Audio](https://librivox.org/ta-psila-vouna-by-zacharias-papantoniou/) - a group of children spend their summer in the mountains. By the end of the summer they learn to function as a community, protect the forest, and become more ecologically conscious.
+* 🟧 Τα Ψηλά Βουνά by Ζαχαρίας Παπαντωνίου ([Text](https://www.ebooks4greeks.gr/%CF%84%CE%B1-%CF%88%CE%B7%CE%BB%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%B1) / [Audio](https://librivox.org/ta-psila-vouna-by-zacharias-papantoniou/)) - a group of children spend their summer in the mountains. By the end of the summer they learn to function as a community, protect the forest, and become more ecologically conscious.
 
 Repositories for audio books:
 
