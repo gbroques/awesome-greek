@@ -187,7 +187,7 @@ In Greek:
 * [Unofficial Greek Duolingo Stories](https://duostories.org/el-en)
 * 🟨 [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
 * 🟨 [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
-* [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
+* 🟨 [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
 * https://www.openbook.gr/category/audio-books/
 * https://www.ebooks4greeks.gr/tag/audiobooks
 
@@ -197,12 +197,12 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 * 🟩 [Complete Greek - Language Transfer](https://www.languagetransfer.org/greek) - Free audio course for beginners using the 'thinking method' — a question and answer format based on the socratic method.
 * 🟩 [Unlocking Greek potential](https://unlockinggreekpotential.com/) - Yiuli teaches Greek to Ellis mostly in English. Over 50 episodes around 20 minutes each in English.
+* 🟩🟨 [Hellenic American Union: Learning Greek Podcasts](https://web.archive.org/web/20210228043746/http://www.hau.gr/?i=learning.en.podcasts-in-greek)
 * 🟨 [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a membership.
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
 * 🟨 [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek. Transcripts available for purchase.
   * **Note:** YouTube videos of podcast has Greek subtitles.
-* [Hellenic American Union: Learning Greek Podcasts](https://web.archive.org/web/20210228043746/http://www.hau.gr/?i=learning.en.podcasts-in-greek)
-* [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
+* 🟨 [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
 * [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti. Not many episodes.
 * 🟨 [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
 * 🟨 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
