@@ -195,6 +195,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟩 [Unlocking Greek potential](https://unlockinggreekpotential.com/) - Yiuli teaches Greek to Ellis mostly in English. Over 50 episodes around 20 minutes each in English.
 * 🟩🟨 [Hellenic American Union: Learning Greek Podcasts](https://web.archive.org/web/20210228043746/http://www.hau.gr/?i=learning.en.podcasts-in-greek)
 * 🟨 💬🇬🇷 [Omilo: Easy Greek Stories Podcast](https://www.youtube.com/playlist?list=PLjg3sKfCihkpEsorILFJ7q7Gk6bZJijiA) - Companion notebook including Greek transcript, English translation, vocabularly list, and grammar exercise available for purchase.
+* 🟨 💬🇬🇷 [Let's Talk Greek podcast](https://www.listennotes.com/podcasts/lets-talk-greek-greek-language-experts-HVyiYx2pZzQ/) - short dialogues (average 4 minutes) with free Greek transcript.
 * 🟨 [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a paid membership.
 * 🟨 [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
 * 🟨 [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti. Not many episodes.
