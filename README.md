@@ -286,6 +286,8 @@ YouTube channels of audio books:
 
 ### Books
 
+* 🟥 [Το Ομότιμο Μανιφέστο - Βασίλης Κωστάκης](https://www.openbook.gr/omotimo-manifesto/) (The Peer Manifesto - Vasilis Kostakis)
+
 #### Learning Greek
 
 * 🟩🟨 [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
