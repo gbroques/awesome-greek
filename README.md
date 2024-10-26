@@ -108,7 +108,6 @@ In Greek:
 * [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
 * [Yiouupi Tv](https://www.youtube.com/channel/UCytjcM3X9C6Vjb0GXDzWI2Q) - Greek videos for infants and preschool children.
 * [Kids FM](https://www.youtube.com/channel/UCrEQGH2gHqjLrxrS4D2Fehw/featured) - No subtitles.
-* [eBooks4Greeks](https://www.youtube.com/channel/UC7zXoeKTLTtr5ZmSDFVPESw/videos)
 * [The Professor with the Bow - Tie](https://www.youtube.com/c/TheProfessorwiththeBowTie/featured) - Teaches ancient and modern Greek. Has videos in English and Greek without subtitles.
 
 ##### Science
@@ -190,6 +189,7 @@ In Greek:
 * 🟨 [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 * [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
 * https://www.openbook.gr/category/audio-books/
+* https://www.ebooks4greeks.gr/tag/audiobooks
 
 ### Podcasts
 
