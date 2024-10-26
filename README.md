@@ -66,13 +66,6 @@ The below emojis next to video or audio resources indicate the following:
 
 YouTube channels about learning Greek as a second language.
 
-Roughly in order of most useful to least useful where "useful" is measured by:
-
-1. amount of videos
-2. quality of videos
-3. whether their videos are mostly in Greek 
-4. and whether they inlcude both Greek and English subtitles.
-
 In English:
 
 * 🟩 [Learn Greek with GreekPod101.com](https://www.youtube.com/@GreekPod101)
