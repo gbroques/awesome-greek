@@ -113,24 +113,24 @@ In Greek:
 
 ##### Science
 
-* 💬🇬🇷 [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
-* 💬🇬🇷 [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
-* [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
-* [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
-* [IT'S JUST PHYSICS by Christos Kiriakidis](https://www.youtube.com/channel/UCpH39b2-3Qr7HmpJw7PejLQ) - videos about Physics in Greek.
-* [Science Behind Music](https://www.youtube.com/c/ScienceBehindMusic/featured) - videos about the scientific aspects of music in Greek.
+* 🟥 💬🇬🇷 [Καθημερινή Φυσική (Daily Physics)](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE/featured) - Popular science videos in Greek.
+* 🟥 💬🇬🇷 [Astronio](https://www.youtube.com/c/Astronio/featured) - videos about astrophysics in Greek.
+* 🟥 [The Skeptic Theory](https://www.youtube.com/c/TheSkepticTheory/featured) - videos about science in Greek.
+* 🟥 [Lab of Datum](https://www.youtube.com/channel/UC2rzC5dg2-2fHt09Ex-96Sw) - Greek videos related to science.
+* 🟥 [IT'S JUST PHYSICS by Christos Kiriakidis](https://www.youtube.com/channel/UCpH39b2-3Qr7HmpJw7PejLQ) - videos about Physics in Greek.
+* 🟥 [Science Behind Music](https://www.youtube.com/c/ScienceBehindMusic/featured) - videos about the scientific aspects of music in Greek.
 
 ##### History & Mythology
 
-* [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
-* [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
-* 💬🇬🇷 [Ιστορικοί Περίπατοι (Historical Walks)](https://www.youtube.com/channel/UCh1a__TpiJkqOfVG9fAsggg/videos) - Επιλεγμένες στιγμές της ιστορίας, άλλες γνωστές κι άλλες που δεν τις διδαχθήκαμε ποτέ, πρόσωπα και γεγονότα που στιγμάτισαν το παρελθόν και καθόρισαν το μέλλον! (Selected moments of history, some known and others we were never taught about, people and events that marked the past and determined the future!) **Newer videos contain Greek and English subtitles**.
+* 🟥 💬🇬🇷 [Ιστορικοί Περίπατοι (Historical Walks)](https://www.youtube.com/channel/UCh1a__TpiJkqOfVG9fAsggg/videos) - Επιλεγμένες στιγμές της ιστορίας, άλλες γνωστές κι άλλες που δεν τις διδαχθήκαμε ποτέ, πρόσωπα και γεγονότα που στιγμάτισαν το παρελθόν και καθόρισαν το μέλλον! (Selected moments of history, some known and others we were never taught about, people and events that marked the past and determined the future!) **Newer videos contain Greek and English subtitles**.
+* 🟥 [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
+* 🟥 [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
 
 ##### Programming & Technology
 
-* [jimkokko5](https://www.youtube.com/c/jimkokko5/featured) - Programming and technology videos in Greek.
-* [Tech and Code In Greek](https://www.youtube.com/c/TechandCodeInGreek/featured) - Programming and technology videos in Greek.
-* [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
+* 🟥 [jimkokko5](https://www.youtube.com/c/jimkokko5/featured) - Programming and technology videos in Greek.
+* 🟥 [Tech and Code In Greek](https://www.youtube.com/c/TechandCodeInGreek/featured) - Programming and technology videos in Greek.
+* 🟥 [Δημήτρης Ψούνης](https://www.youtube.com/user/psounis) - Programming videos in Greek.
 
 ##### Food, Health, & Nutrition
 
@@ -142,23 +142,23 @@ In Greek:
 * 🟥 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
 * 🟥 💬🇬🇧 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
 * [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
-* [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
-* [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
-  * 🟥 [Μαθήματα Επιβίωσης στα Βουνά της Βόρειας Ελλάδας](https://www.youtube.com/playlist?list=PLesiP49zG6sk3CrJ10tsJ0X_n2SAjedFe) (Survival Courses in the Mountains of Northern Greece)
+* 🟥 [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
+* 🟥 [VICE Greece](https://www.youtube.com/channel/UCSq1ofKOmKQLGgLmDrDr7Kg)
+  * [Μαθήματα Επιβίωσης στα Βουνά της Βόρειας Ελλάδας](https://www.youtube.com/playlist?list=PLesiP49zG6sk3CrJ10tsJ0X_n2SAjedFe) (Survival Courses in the Mountains of Northern Greece)
 * [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
-* [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
+* 🟥 [Κομμουνιστική Νεολαία Ελλάδας (ΚΝΕ)](https://www.youtube.com/@knetube/featured) - Communist Youth of Greece. Has subtitles in Greek and English.
 * 🟥 [News247gr](https://www.youtube.com/@News247gr)
 
 #### Videos
 
-* [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
+* 🟩 💬🇬🇷🇬🇧 [Learn Greek While You Sleep 😀 Most Important Greek Phrases and Words 👍 English/Greek (8 Hours)](https://www.youtube.com/watch?v=QWpPWeepu9I)
 * 🟥 💬🇬🇷🇬🇧 [Knowledge as a Common. Communities of production and sharing in Greece](https://www.youtube.com/watch?v=8iCZgZEYm0w)
 * 🟥 💬🇬🇷🇬🇧 [Building Communities of Commons in Greece](https://www.youtube.com/watch?v=T5Uj-twO-zc) - A documentary on networks in the Sarantaporo area
 * 🟥 💬🇬🇧 [Τzoumakers: A mountainous community of open source technologies](https://www.youtube.com/watch?v=Q66rciAJwQc)
 
 ### Shows
 
-* 💬🇬🇷 [Πέππα το γουρουνάκι](https://www.youtube.com/playlist?list=PLQ17oChB0XEKywkOIXPQqbl_BP4XnAfPG) (Peppa Pig) - on YouTube with Greek subtitles.
+* 🟨 💬🇬🇷 [Πέππα το γουρουνάκι](https://www.youtube.com/playlist?list=PLQ17oChB0XEKywkOIXPQqbl_BP4XnAfPG) (Peppa Pig) - on YouTube with Greek subtitles.
   * [Πέππα το Γουρουνάκι - επίσημο κανάλι](https://www.youtube.com/channel/UCkiXi3X7fGie4Now_0a5vtA/videos)
 * [Χάιντι, η σειρά Official - on YouTube](https://www.youtube.com/channel/UC2f9gM6oV2JmcPwAUHcTESA/videos)
 * [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
@@ -171,12 +171,15 @@ In Greek:
 
 ### Movies
 
-* [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
-* [BBC Learning Zone - Talk Greek 1](https://www.youtube.com/watch?v=0nq7-r0wNb4)
-* [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
-* [Βόρεια Εύβοια, Το Σχέδιο, 1ο Μέρος: "8 δέκατα και αναφορά", english subs North Evia, the Plan, Pt 1](https://www.youtube.com/watch?v=JLJT7dpqyHs) - Independent documentary about how and why North Evia got burned in the fires of August 2021. This is the Part 1, addressing the "HOW". Soon the second part will be ready, addressing "WHY".
-* [Athos - Mount Athos Monk's Republic Documentary](https://www.youtube.com/watch?v=U5pwfLRI-R8) - Mount Athos on a peninsula off the cost of Greece is one of Europe's last remaining secrets: a monks' republic. Access to women is strictly denied and in order to keep unwanted tourists out, visas are granted only to pilgrims and workers. For the first time, a filmmaker was given access to all forms of monastic life on the holy mountain.
+* 🟩 [BBC Learning Zone - Talk Greek 1](https://www.youtube.com/watch?v=0nq7-r0wNb4)
+* 🟥 💬🇬🇷🇬🇧 [Βόρεια Εύβοια, Το Σχέδιο, 1ο Μέρος: "8 δέκατα και αναφορά", english subs North Evia, the Plan, Pt 1](https://www.youtube.com/watch?v=JLJT7dpqyHs) - Independent documentary about how and why North Evia got burned in the fires of August 2021. This is the Part 1, addressing the "HOW". Soon the second part will be ready, addressing "WHY".
+* 🟥 💬🇬🇧 [Athos - Mount Athos Monk's Republic Documentary](https://www.youtube.com/watch?v=U5pwfLRI-R8) - Mount Athos on a peninsula off the cost of Greece is one of Europe's last remaining secrets: a monks' republic. Access to women is strictly denied and in order to keep unwanted tourists out, visas are granted only to pilgrims and workers. For the first time, a filmmaker was given access to all forms of monastic life on the holy mountain.
+* 🟥 💬🇬🇧 [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
+
+Lists:
+
 * [Greek Movies with English Subtitles](https://www.youtube.com/playlist?list=PLqwpFoCUvN-qqxNe96CKurYm0CQfhoCn7) - YouTube Playlist
+* [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
 
 ## 🎙️ Audio
 
@@ -209,7 +212,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟨 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
 * 🟨 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 * 🟧 [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
-* 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
+* 🟥 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
 * 🟥 [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
 * 🟥 [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 * [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
@@ -218,9 +221,9 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 ### Radio
 
-* [https://www.e-radio.gr/](https://www.e-radio.gr/)
-* [https://www.ert.gr/](https://www.ert.gr/)
-* [Special Broadcasting Services (SBS) Greek - Radio](https://www.sbs.com.au/language/greek/en/radio-program/greek/lcwhn4052)
+* 🟥 [https://www.e-radio.gr/](https://www.e-radio.gr/)
+* 🟥 [https://www.ert.gr/](https://www.ert.gr/)
+* 🟥 [Special Broadcasting Services (SBS) Greek - Radio](https://www.sbs.com.au/language/greek/en/radio-program/greek/lcwhn4052)
 
 ### Music
 
@@ -240,11 +243,11 @@ Roughly in order of lowest difficulty to highest difficulty:
   * https://www.p2plab.gr/en/
   * https://wiki.p2pfoundation.net/Greece
   * https://wiki.p2pfoundation.net/Category:Greece
-* [Rural Electrification Research Group - National Papers](https://rurerg.net/papers/conferences/national/)
-* [Open Technologies Alliance (GFOSS)](https://en.wikipedia.org/wiki/Open_Technologies_Alliance_(GFOSS))
-* [ΕΛ / ΛΑΚ](https://ellak.gr/) - Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα (Free Software / Open Source Software)
-* https://neaguinea.org/
-* https://abc.commons.gr/
+* 🟥 [Rural Electrification Research Group - National Papers](https://rurerg.net/papers/conferences/national/)
+* 🟥 [Open Technologies Alliance (GFOSS)](https://en.wikipedia.org/wiki/Open_Technologies_Alliance_(GFOSS))
+* 🟥 [ΕΛ / ΛΑΚ](https://ellak.gr/) - Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα (Free Software / Open Source Software)
+* 🟥 https://neaguinea.org/
+* 🟥 https://abc.commons.gr/
 
 ### Articles
 
