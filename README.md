@@ -38,12 +38,12 @@ Thus, resources for learning languages in general will also not be included.
 
 ## Level
 
-The following colored squares will be associated to resources corresponding to the given level.
+The following colored squares next to resources indicate the given level.
 
-Note, a resource may belong to multiple different levels.
+Note, a resource may belong to multiple levels.
 
-* 🟩 - Absolute Beginner (A1): resources are mostly in English.
-* 🟨 - Beginner (A2): resources are mostly in *slow* easy-to-understand Greek.
+* 🟩 - Absolute Beginner (A1): resource is mostly in English.
+* 🟨 - Beginner (A2): resource is mostly in *slow* easy-to-understand Greek.
 * 🟧 - Intermediate (B1 - B2)
 * 🟥 - Advanced (C1 - C2)
 
@@ -70,6 +70,22 @@ The below emojis denote the following:
 * 💬🇬🇧 - English subtitles
 * 💬🇬🇷🇬🇧 - Greek & English subtitles
 
+In English:
+
+* 🟩 [Learn Greek with GreekPod101.com](https://www.youtube.com/@GreekPod101)
+* 🟩 [Learn Greek with Lina](https://www.youtube.com/@linaaaap1)
+* 🟩 [The Greek Online School](https://www.youtube.com/@greekonlineschool)
+* 🟩 [greek lessons online](https://www.youtube.com/@greeklessonsonlinevideos)
+* 🟩 [Ρίτα Κουκουλάκη](https://www.youtube.com/@%CE%A1%CE%AF%CF%84%CE%B1%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7) - not active, and only 6 videos.
+
+In Greek & English:
+
+* 🟩🟨 [Helinika](https://www.youtube.com/@helinika) - Mostly in English, but features [some Greek videos with subtitles](https://www.youtube.com/watch?v=OqhRriM4yKM&list=PLF0mvBWCfPlN3-Gpx6cKhjn7wRjy3zc_J&pp=iAQB), [stories in Greek](https://www.youtube.com/watch?v=E6bOZ4_WcZs&list=PLF0mvBWCfPlNa6s9L-UQsGHMjDvpYAjEg&pp=iAQB), and more!
+* 🟩🟨 [Omilo Greek Language and Culture](https://www.youtube.com/@OmiloHellas) - Mostly in English, but features [stories in Greek with subtitles](https://www.youtube.com/watch?v=3YdGcYjPfbE&list=PLjg3sKfCihkpEsorILFJ7q7Gk6bZJijiA&pp=iAQB).
+* 🟩🟨 [Miss Ruby](https://www.youtube.com/@MissRuby) - Speaks both Greek & English within the same video without subtitles.
+* 🟩🟨 [greek2go by Rita Dana](https://www.youtube.com/@greek2go) - Speaks both Greek & English within the same video without subtitles.
+* 🟩 [Lingo Jump Channel - Greek](https://www.youtube.com/c/LingoJumpChannel/search?query=Greek)
+
 In Greek:
 
 * 🟨💬🇬🇷🇬🇧 [The Online Greek Tutor](https://www.youtube.com/@Theonlinegreektutor)
@@ -81,22 +97,6 @@ In Greek:
 * 🟨💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
 * 🟨💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
 * 🟨💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
-
-In Greek & English:
-
-* [Helinika](https://www.youtube.com/@helinika) - Mostly in English, but features [some Greek videos with subtitles](https://www.youtube.com/watch?v=OqhRriM4yKM&list=PLF0mvBWCfPlN3-Gpx6cKhjn7wRjy3zc_J&pp=iAQB), [stories in Greek](https://www.youtube.com/watch?v=E6bOZ4_WcZs&list=PLF0mvBWCfPlNa6s9L-UQsGHMjDvpYAjEg&pp=iAQB), and more!
-* [Omilo Greek Language and Culture](https://www.youtube.com/@OmiloHellas) - Mostly in English, but features [stories in Greek with subtitles](https://www.youtube.com/watch?v=3YdGcYjPfbE&list=PLjg3sKfCihkpEsorILFJ7q7Gk6bZJijiA&pp=iAQB).
-* [Miss Ruby](https://www.youtube.com/@MissRuby) - Speaks both Greek & English within the same video without subtitles.
-* [greek2go by Rita Dana](https://www.youtube.com/@greek2go) - Speaks both Greek & English within the same video without subtitles.
-* [Lingo Jump Channel - Greek](https://www.youtube.com/c/LingoJumpChannel/search?query=Greek)
-
-In English:
-
-* 🟩 [Learn Greek with GreekPod101.com](https://www.youtube.com/@GreekPod101)
-* 🟩 [Learn Greek with Lina](https://www.youtube.com/@linaaaap1)
-* 🟩 [The Greek Online School](https://www.youtube.com/@greekonlineschool)
-* 🟩 [greek lessons online](https://www.youtube.com/@greeklessonsonlinevideos)
-* 🟩 [Ρίτα Κουκουλάκη](https://www.youtube.com/@%CE%A1%CE%AF%CF%84%CE%B1%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7) - not active, and only 6 videos.
 
 ##### Children
 
