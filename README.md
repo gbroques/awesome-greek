@@ -186,13 +186,13 @@ Lists:
 <a name="audio-websites"></a>
 ### Websites
 
+* 🟩🟨 [Oh my sweet Greece: Audio Stories](https://ohmysweetgreece.com/greek_audio_stories/) - requires signup to newsletter.
+* 🟨 [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 * 🟨 [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
 * 🟨 [LingQ Mini Stories](https://www.lingq.com/en/learn-greek-online/courses/270132/)
 * 🟨 [Unofficial Greek Duolingo Stories](https://duostories.org/el-en) - audio is machine-generated.
 * 🟨 [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
-* 🟨 [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 * 🟨 [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
-* 🟩🟨 [Oh my sweet Greece: Audio Stories](https://ohmysweetgreece.com/greek_audio_stories/) - requires signup to newsletter.
 
 ### Podcasts
 
