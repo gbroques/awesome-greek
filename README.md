@@ -274,6 +274,7 @@ YouTube channels of audio books:
 * 🟩 [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
 * 🟩 [The Greek Impact on English Vocabulary](https://guinlist.wordpress.com/2014/10/20/90-the-greek-impact-on-english-vocabulary/)
 * 🟩 [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
+* 🟥 💬🇬🇷🇬🇧 [Πώς να δημιουργήσουμε μια παγκόσμια και ευημερούσα οικονομία βασισμένη στα κοινά](https://www.openbook.gr/pws-na-dimiourgisoume-mia-pagkosmia-kai-eyimerousa-oikonomia-vasismeni-sta-koina/) / [How to create a thriving global commons economy](https://thenextsystem.org/learn/stories/how-create-thriving-global-commons-economy) - Δοκίμιο των Βασίλη Κωστάκη & Michel Bauwens
 * 🟥 💬🇬🇷🇬🇧 [Το Μανιφέστο του Κοινού Κτήματος (Public Domain Manifesto)](https://publicdomainmanifesto.org/manifesto/)
 
 ### Blogs
@@ -283,8 +284,6 @@ YouTube channels of audio books:
 * 🟥 https://www.opensesame.gr/
 
 ### Books
-
-* 🟥 💬🇬🇷🇬🇧 [Πώς να δημιουργήσουμε μια παγκόσμια και ευημερούσα οικονομία βασισμένη στα κοινά](https://www.openbook.gr/pws-na-dimiourgisoume-mia-pagkosmia-kai-eyimerousa-oikonomia-vasismeni-sta-koina/) / [How to create a thriving global commons economy](https://thenextsystem.org/learn/stories/how-create-thriving-global-commons-economy) - Δοκίμιο των Βασίλη Κωστάκη & Michel Bauwens
 
 #### Learning Greek
 
