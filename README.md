@@ -282,6 +282,8 @@ YouTube channels of audio books:
 
 ### Books
 
+* [Πώς να δημιουργήσουμε μια παγκόσμια και ευημερούσα οικονομία βασισμένη στα κοινά](https://www.openbook.gr/pws-na-dimiourgisoume-mia-pagkosmia-kai-eyimerousa-oikonomia-vasismeni-sta-koina/) / [How to create a thriving global commons economy](https://thenextsystem.org/learn/stories/how-create-thriving-global-commons-economy) - Δοκίμιο των Βασίλη Κωστάκη & Michel Bauwens
+
 #### Learning Greek
 
 * 🟩🟨 [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
