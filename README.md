@@ -230,6 +230,7 @@ Repositories for audio books:
 
 * https://www.openbook.gr/category/audio-books/
 * https://www.ebooks4greeks.gr/tag/audiobooks
+* [LibriVox - Greek](https://librivox.org/search?title=&author=&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=26&sort_order=catalog_date&search_page=1&search_form=advanced)
 
 YouTube channels of audio books:
 * 🟥 [Mikros Anagnostis](https://www.youtube.com/@Mikros_Anagnostis)
