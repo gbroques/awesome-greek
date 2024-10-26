@@ -271,11 +271,11 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 #### Repositories
 
-* ⬛ ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
-* https://www.openbook.gr/
-* ⬛ https://www.ebooks4greeks.gr/
-* ⬛ https://free-ebooks.gr/
-   * [Free ebooks tagged Παιδικά for children](https://free-ebooks.gr/tag/16)
+* 🟥 ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
+* 🟥 https://www.openbook.gr/
+* 🟥 https://www.ebooks4greeks.gr/
+* 🟥 https://free-ebooks.gr/
+   * 🟧 [https://free-ebooks.gr/ - Παιδικά (children)](https://free-ebooks.gr/tag/16)
 
 ## 🎮 Interactive
 
