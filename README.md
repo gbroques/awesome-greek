@@ -134,6 +134,7 @@ In Greek:
 
 ##### Uncategorized
 
+* 🟥 💬🇬🇷🇬🇧 [Spiros Soulis](https://www.youtube.com/@SpirosSoulisGr) - Decoration and interior design.
 * 🟥 💬🇬🇷 [Greekonomics](https://www.youtube.com/@Greekonomics) - Videos about how the economy affects society.
 * 🟥 💬🇬🇧 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
 * 🟥 💬🇬🇷 [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
