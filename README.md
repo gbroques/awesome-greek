@@ -36,6 +36,17 @@ Thus, resources for learning languages in general will also not be included.
    * [Open Courses](#open-courses)
 * [Common Greek Proficiency Test](#common-greek-proficiency-test)
 
+## Level
+
+The following colored squares will be associated to resources corresponding to the given level.
+
+Note, a resource may belong to multiple different levels.
+
+* 🟩 - Absolute Beginner (A1): resources are mostly in English.
+* 🟨 - Beginner (A2): resources are mostly in *slow* easy-to-understand Greek.
+* 🟧 - Intermediate (B1 - B2)
+* 🟥 - Advanced (C1 - C2)
+
 ## 🎥 Video
 
 ### YouTube
@@ -58,22 +69,18 @@ The below emojis denote the following:
 * 💬🇬🇷 - Greek subtitles
 * 💬🇬🇧 - English subtitles
 * 💬🇬🇷🇬🇧 - Greek & English subtitles
-* 🟩 - Absolute Beginner (A1): resources are mostly in English.
-* 🟨 - Beginner (A2): resources are mostly in *slow* easy-to-understand Greek.
-* 🟧 - Intermediate (B1 - B2)
-* 🟥 - Advanced (C1 - C2)
 
 In Greek:
 
-* 💬🇬🇷🇬🇧 [The Online Greek Tutor](https://www.youtube.com/@Theonlinegreektutor)
-* 💬🇬🇷🇬🇧 [Do You Speak Greek?](https://www.youtube.com/@DoYouSpeakGreek)
-* 💬🇬🇷🇬🇧 [Easy Greek](https://www.youtube.com/c/EasyGreekVideos) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)
-* 💬🇬🇷🇬🇧 [Linguatree](https://www.youtube.com/@Linguatree)
-* 💬🇬🇷🇬🇧 [Learn Greek with Katerina](https://www.youtube.com/@learngreekwithkaterina)
-* 💬🇬🇷🇬🇧 [Learn Greek with Zoi](https://www.youtube.com/@learngreekwithzoi9509)
-* 💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
-* 💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
-* 💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
+* 🟨💬🇬🇷🇬🇧 [The Online Greek Tutor](https://www.youtube.com/@Theonlinegreektutor)
+* 🟨💬🇬🇷🇬🇧 [Do You Speak Greek?](https://www.youtube.com/@DoYouSpeakGreek)
+* 🟨💬🇬🇷🇬🇧 [Easy Greek](https://www.youtube.com/c/EasyGreekVideos) / [Easy Languages - Greek](https://www.youtube.com/c/learnlanguages/search?query=Greek)
+* 🟨💬🇬🇷🇬🇧 [Linguatree](https://www.youtube.com/@Linguatree)
+* 🟨💬🇬🇷🇬🇧 [Learn Greek with Katerina](https://www.youtube.com/@learngreekwithkaterina)
+* 🟨💬🇬🇷🇬🇧 [Learn Greek with Zoi](https://www.youtube.com/@learngreekwithzoi9509)
+* 🟨💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
+* 🟨💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
+* 🟨💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
 
 In Greek & English:
 
@@ -85,16 +92,16 @@ In Greek & English:
 
 In English:
 
-* [Learn Greek with GreekPod101.com](https://www.youtube.com/@GreekPod101)
-* [Learn Greek with Lina](https://www.youtube.com/@linaaaap1)
-* [The Greek Online School](https://www.youtube.com/@greekonlineschool)
-* [greek lessons online](https://www.youtube.com/@greeklessonsonlinevideos)
-* [Ρίτα Κουκουλάκη](https://www.youtube.com/@%CE%A1%CE%AF%CF%84%CE%B1%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7) - not active, and only 6 videos.
+* 🟩 [Learn Greek with GreekPod101.com](https://www.youtube.com/@GreekPod101)
+* 🟩 [Learn Greek with Lina](https://www.youtube.com/@linaaaap1)
+* 🟩 [The Greek Online School](https://www.youtube.com/@greekonlineschool)
+* 🟩 [greek lessons online](https://www.youtube.com/@greeklessonsonlinevideos)
+* 🟩 [Ρίτα Κουκουλάκη](https://www.youtube.com/@%CE%A1%CE%AF%CF%84%CE%B1%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7) - not active, and only 6 videos.
 
 ##### Children
 
-* 💬🇬🇷 [Ναι Μπορώ - Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
-* 💬🇬🇧 [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
+* 🟨💬🇬🇷 [Ναι Μπορώ - Παραμύθια για παιδιά](https://www.youtube.com/channel/UC3hD-CAACwLLErPbJJQnvhQ/search?query=%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC) - Close to 40 fairy tales for children in Greek with Greek subtitles.
+* 🟨💬🇬🇧 [Greek Fairy Tales (Ελληνικά Παραμύθια)](https://www.youtube.com/c/GreekFairyTales/featured) - In Greek with English subtitles.
 * [RaniaSchool](https://www.youtube.com/c/RaniaSchool/featured) - Greek videos for school children.
 * [Ατέλειωτες Ιστορίες](https://www.youtube.com/channel/UCvCTqsYJ9Sl2QXoJ2YYaBSQ) - Stories for children in Greek. Some videos have subtitles, but it's inconsistent.
 * [ΤσίκιΡίκιΤρομ Δανάη & Κροξ](https://www.youtube.com/channel/UCXzpC-QNRQmfKVJhOGdDFVw/featured) - Greek videos for infants and preschool children.
@@ -142,7 +149,7 @@ In English:
 
 #### Playlists
 
-* 💬🇬🇷🇬🇧 [Greek AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
+* 🟨💬🇬🇷🇬🇧 [Greek AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtHiN8r24HF_tMrTw0GTtcEa) - Has Greek and English subtitles.
 * [💫Cartoons στα ελληνικα🇬🇷 - YouTube Playlist](https://www.youtube.com/playlist?list=PLFH5oRUm-F5BbFP8Y_q4cMKZWm6_H2isl)
 * [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a)
 
@@ -179,10 +186,10 @@ In English:
 <a name="audio-websites"></a>
 ### Websites
 
-* [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
+* 🟨 [Interlinear Greek Books](https://interlinearbooks.com/greek/) - with audio and English subtitles.
 * [LingQ Mini Stories](https://www.lingq.com/en/learn-greek-online/courses/270132/)
 * [Unofficial Greek Duolingo Stories](https://duostories.org/el-en)
-* [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
+* 🟨 [Greek Texts](https://gbroques.github.io/greek-texts/) - Texts from Τράπεζα κειμένων with synced audio from members of the Learning Greek Discord server.
 * [Greek Mythology - Stories of ancient mythological heroes and gods](http://www.ilearngreek.com/mythology/greek_mythology.asp) - Audio is machine-generated.
 * https://www.openbook.gr/category/audio-books/
 
@@ -190,11 +197,11 @@ In English:
 
 Roughly in order of lowest difficulty to highest difficulty:
 
-* [Complete Greek - Language Transfer](https://www.languagetransfer.org/greek) - Free audio course for beginners using the 'thinking method' — a question and answer format based on the socratic method.
-* [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a membership.
+* 🟩 [Complete Greek - Language Transfer](https://www.languagetransfer.org/greek) - Free audio course for beginners using the 'thinking method' — a question and answer format based on the socratic method.
+* 🟨 [Super Easy Greek for Beginners](https://beginners.easygreek.fm/) - transcripts available with a membership.
 * [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
 * [Unlocking Greek potential](https://unlockinggreekpotential.com/) - Yiuli teaches Greek to Ellis mostly in English. Over 50 episodes around 20 minutes each in English.
-* [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek. Transcripts available for purchase.
+* 🟨 [[Omilo] Easy Greek Stories Podcast](https://omilo.com/podcasts/greek-stories/) - For Intermediate Learners in Greek. Transcripts available for purchase.
   * **Note:** YouTube videos of podcast has Greek subtitles.
 * [Hellenic American Union: Learning Greek Podcasts](https://web.archive.org/web/20210228043746/http://www.hau.gr/?i=learning.en.podcasts-in-greek)
 * [Greek at Heart podcast](https://www.alphabetagreek.com/podcast) - 13 episodes in Greek for intermediate learners with transcripts available after a free sign-up.
@@ -202,8 +209,8 @@ Roughly in order of lowest difficulty to highest difficulty:
 * [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
 * [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with their English translation.
 * [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
-* 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
-* 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
+* 🟨💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
+* 🟨💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 * [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
 * [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
 * 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
@@ -226,10 +233,10 @@ Roughly in order of lowest difficulty to highest difficulty:
 <a name="text-websites"></a>
 ### Websites
 
-* [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
+* 🟩 [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
 * [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts, written and oral, for learning Greek as a second language.
-* [StoryWeaver (Greek)](https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance) - short stories for children.
-* [Παιδικά Παραμύθια (Children's Tales)](https://www.paidika-paramythia.gr/) - a modern, mobile and tablet friendly website, with short and long myths and classic tales.
+* 🟨 [StoryWeaver (Greek)](https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance) - short stories for children.
+* 🟨 [Παιδικά Παραμύθια (Children's Tales)](https://www.paidika-paramythia.gr/) - a modern, mobile and tablet friendly website, with short and long myths and classic tales.
 * Peer-to-peer (P2P) in Greece
   * https://www.p2plab.gr/en/
   * https://wiki.p2pfoundation.net/Greece
@@ -242,10 +249,10 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 ### Articles
 
-* [Wikipedia - Modern Greek](https://en.wikipedia.org/wiki/Modern_Greek)
-* [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
-* [The Greek Impact on English Vocabulary](https://guinlist.wordpress.com/2014/10/20/90-the-greek-impact-on-english-vocabulary/)
-* [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
+* 🟩 [Wikipedia - Modern Greek](https://en.wikipedia.org/wiki/Modern_Greek)
+* 🟩 [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
+* 🟩 [The Greek Impact on English Vocabulary](https://guinlist.wordpress.com/2014/10/20/90-the-greek-impact-on-english-vocabulary/)
+* 🟩 [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
 * [A short story in Greek (with audio)](https://blogs.transparent.com/greek/a-short-story-in-greek/)
 
 ### Blogs
@@ -257,9 +264,9 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 #### Learning Greek
 
-* [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
+* 🟩🟨 [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
    * Chapters in Greek can be downloaded from [http://moderngreek.eu/ from the web archive](https://web.archive.org/web/20211216114407/http://moderngreek.eu/).
-* [Modern Greek: Grammar Notes for Intermediate Learners](https://repository.kallipos.gr/handle/11419/13952) - A User-Friendly Grammar for Levels B1-B2 by Maria Poulopoulou
+* 🟧 [Modern Greek: Grammar Notes for Intermediate Learners](https://repository.kallipos.gr/handle/11419/13952) - A User-Friendly Grammar for Levels B1-B2 by Maria Poulopoulou
 * [General Secretariat for Lifelong Learning](http://www.gsae.edu.gr/en/)
   * [Greek Language Learning - A1](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
   * [Greek Language Learning - A2](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
