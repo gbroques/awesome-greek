@@ -42,10 +42,11 @@ The following colored squares next to resources indicate the given level.
 
 Note, a resource may belong to multiple levels.
 
-* 🟩 - Absolute Beginner (A1): resource is mostly in English.
-* 🟨 - Beginner (A2): resource is mostly in *slow* easy-to-understand Greek.
+* 🟩 - Absolute Beginner (A1): mostly in English.
+* 🟨 - Beginner (A2): mostly in *slow* easy-to-understand Greek.
 * 🟧 - Intermediate (B1 - B2)
 * 🟥 - Advanced (C1 - C2)
+* ⬛ - All levels (A1 - C2)
 
 ## 🎥 Video
 
@@ -271,14 +272,14 @@ Roughly in order of lowest difficulty to highest difficulty:
 * [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
 * [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
 * [Γραμματική Νέας Ελληνικής Γλώσσας (Grammar of Modern Greek Language)](http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index.html)
-* [Books4Languages - Index](https://open.books4languages.com/multisite-index/)
+* ⬛ [Books4Languages - Index](https://open.books4languages.com/multisite-index/)
 
 #### Repositories
 
-* ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
+* ⬛ ["Kallipos" Repository](https://repository.kallipos.gr/) - a site for collecting books, aids and learning objects, which have either been created by members of the academic and research community in the framework of the Action "Greek Academic Electronic Books and Aids / Kallipos" or have been made available to the public.
 * https://www.openbook.gr/
-* https://www.ebooks4greeks.gr/
-* https://free-ebooks.gr/
+* ⬛ https://www.ebooks4greeks.gr/
+* ⬛ https://free-ebooks.gr/
    * [Free ebooks tagged Παιδικά for children](https://free-ebooks.gr/tag/16)
 
 ## 🎮 Interactive
@@ -288,7 +289,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 
 * 🟩 [Filoglossia - Learning Greek as a foreign language](http://www.xanthi.ilsp.gr/filog/default.htm)
    * [Sitemap](http://www.xanthi.ilsp.gr/filog/sitemap.htm)
-* http://www.kypros.org/LearnGreek/
+* ⬛ http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
    * http://greek.pgeorgalas.gr/Contents.asp
 * https://ohmysweetgreece.com/
@@ -296,14 +297,14 @@ Roughly in order of lowest difficulty to highest difficulty:
    2. The Audio Stories activities for the levels A1/A2
    3. Με αγάπη από την Αθήνα podcast for the levels B1/B2
 * [I Kind Like Languages: Greek Medio-Passive Voice](https://ikindalikelanguages.com/learn/ModernGreekTopic-MedioPassiveVoice)
-* [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
+* ⬛ [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
 * [lingust.ru](https://lingust.ru/%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD/) - Greek lessons in Russian. Contains short dialogues and stories in Greek with audio at the end of most lessons.
 
 ### Apps
 
-* [Duolingo](https://www.duolingo.com/)
-* [Memrise](https://app.memrise.com/courses/english/greek/)
-* [Clozemaster](https://www.clozemaster.com/l/ell-eng)
+* ⬛ [Duolingo](https://www.duolingo.com/)
+* ⬛ [Memrise](https://app.memrise.com/courses/english/greek/)
+* ⬛ [Clozemaster](https://www.clozemaster.com/l/ell-eng)
 
 ### Open Courses
 
