@@ -282,6 +282,8 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟥 https://www.ebooks4greeks.gr/
 * 🟥 https://free-ebooks.gr/
    * 🟧 [https://free-ebooks.gr/ - Παιδικά (children)](https://free-ebooks.gr/tag/16)
+* 🟥 https://taexeiola.blogspot.com/
+* 🟥 [Project Gutenberg - Greek](https://www.gutenberg.org/browse/languages/el)
 
 ## 🎮 Interactive
 
