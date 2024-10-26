@@ -169,8 +169,8 @@ In Greek:
 
 Lists:
 
-* [Greek Movies with English Subtitles](https://www.youtube.com/playlist?list=PLqwpFoCUvN-qqxNe96CKurYm0CQfhoCn7) - YouTube Playlist
-* [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
+* 🟨 [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
+* 🟥 [Greek Movies with English Subtitles](https://www.youtube.com/playlist?list=PLqwpFoCUvN-qqxNe96CKurYm0CQfhoCn7) - YouTube Playlist
 
 ## 🎙️ Audio
 
