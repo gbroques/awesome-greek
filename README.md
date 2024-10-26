@@ -274,11 +274,13 @@ YouTube channels of audio books:
 * 🟩 [Greek Influence on the English and Spanish Alphabets: The Story of the PH, TH, and CH letter combinations and Greek letters in English and Spanish](https://ssulinguafranca.org/2010/12/01/greek-influence-on-the-english-and-spanish-alphabets/)
 * 🟩 [The Greek Impact on English Vocabulary](https://guinlist.wordpress.com/2014/10/20/90-the-greek-impact-on-english-vocabulary/)
 * 🟩 [Luca Lampariello - How to Learn Greek: My 3 Biggest Lessons Learned](https://www.lucalampariello.com/how-to-learn-greek/)
+* [Public Domain Manifesto](https://publicdomainmanifesto.org/manifesto/)
 
 ### Blogs
 
 * 🟩 https://blogs.transparent.com/greek/
 * [Greek Grammar Blog (tumblr)](https://greek-grammar-blog.tumblr.com/) - articles on the passive voice, pronouns, cases, articles, and other aspects of Modern Greek grammar.
+* 🟥 https://www.opensesame.gr/
 
 ### Books
 
