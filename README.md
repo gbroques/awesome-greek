@@ -86,6 +86,7 @@ In Greek:
 * 🟨 💬🇬🇷🇬🇧 [Linguatree](https://www.youtube.com/@Linguatree)
 * 🟨 💬🇬🇷🇬🇧 [Learn Greek with Katerina](https://www.youtube.com/@learngreekwithkaterina)
 * 🟨 💬🇬🇷🇬🇧 [Learn Greek with Zoi](https://www.youtube.com/@learngreekwithzoi9509)
+* 🟨 💬🇬🇷🇬🇧 [Difficult Greek](https://www.youtube.com/@DifficultGreek) - about Modern Greek and language learning.
 * 🟨 💬🇬🇷🇬🇧 [Glossonauts](https://www.youtube.com/@glossonauts) - Whether videos have Greek and / or English subtitles is inconsistent.
 * 🟨 💬🇬🇷🇬🇧 [my greek podcast](https://www.youtube.com/@mygreekpodcast) - not active, and only 11 videos.
 * 🟨 💬🇬🇷 [Elena Efthimiou](https://www.youtube.com/@ElenaEfthimiou2680) - Comprehensible Greek videos with Greek subtitles influenced by Stephen Krashen.
