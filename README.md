@@ -260,10 +260,10 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟩🟨 [Modern Greek: Grammar Notes for Absolute Beginners](https://repository.kallipos.gr/handle/11419/4393) - A User-Friendly Grammar for Levels A1-A2 by Maria Poulopoulou
    * Chapters in Greek can be downloaded from [http://moderngreek.eu/ from the web archive](https://web.archive.org/web/20211216114407/http://moderngreek.eu/).
 * 🟧 [Modern Greek: Grammar Notes for Intermediate Learners](https://repository.kallipos.gr/handle/11419/13952) - A User-Friendly Grammar for Levels B1-B2 by Maria Poulopoulou
-* [General Secretariat for Lifelong Learning](http://www.gsae.edu.gr/en/)
-  * [Greek Language Learning - A1](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
-  * [Greek Language Learning - A2](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
-  * [Elements of Greek History & Greek Culture](http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
+* [General Secretariat for Lifelong Learning](https://web.archive.org/web/20230401100537/http://gsae.edu.gr/en/)
+  * [Greek Language Learning - A1](https://web.archive.org/web/20230330180444/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/803-a1)
+  * [Greek Language Learning - A2](https://web.archive.org/web/20230330180444/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/804-a2)
+  * [Elements of Greek History & Greek Culture](https://web.archive.org/web/20230401100537/http://www.gsae.edu.gr/el/ekpaideftiko-yliko/805-elliniki-istoria)
 * [Modern Greek - Wikibooks](https://en.wikibooks.org/wiki/Modern_Greek)
 * [Colloquial Greek by Niki Watts](https://routledgetextbooks.com/textbooks/colloquial/language/greek.php)
 * [Γραμματική Νέας Ελληνικής Γλώσσας (Grammar of Modern Greek Language)](http://ebooks.edu.gr/ebooks/v/html/8547/2334/Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou_html-apli/index.html)
