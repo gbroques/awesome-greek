@@ -124,7 +124,7 @@ In Greek:
 
 ##### History & Mythology
 
-* 🟥 💬🇬🇷 [Ιστορικοί Περίπατοι (Historical Walks)](https://www.youtube.com/channel/UCh1a__TpiJkqOfVG9fAsggg/videos) - Επιλεγμένες στιγμές της ιστορίας, άλλες γνωστές κι άλλες που δεν τις διδαχθήκαμε ποτέ, πρόσωπα και γεγονότα που στιγμάτισαν το παρελθόν και καθόρισαν το μέλλον! (Selected moments of history, some known and others we were never taught about, people and events that marked the past and determined the future!) **Newer videos contain Greek and English subtitles**.
+* 🟥 💬🇬🇷 [Ιστορικοί Περίπατοι (Historical Walks)](https://www.youtube.com/channel/UCh1a__TpiJkqOfVG9fAsggg/videos) - History, current events and controversial issues surrounding politics and everyday life. **Newer videos contain Greek and English subtitles**.
 * 🟥 [The Mythologist](https://www.youtube.com/c/TheMythologist/featured) - videos about Greek mythology in Greek!
 * 🟥 [Ιστορικός Περιηγητής](https://www.youtube.com/c/%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C%CF%82%CE%A0%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82/featured) - Videos about history in Greek.
 
