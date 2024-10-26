@@ -42,6 +42,7 @@
 ## Websites
 
 * [Greek Alphabet: Unlock the Secrets](https://web.archive.org/web/20210411035952/http://www.greekalphabeta.com/)
+* [I Kinda Like Languages: Greek Alphabet](https://ikindalikelanguages.com/learn/ModernGreekAlphabet)
 
 ## Books
 

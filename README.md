@@ -298,9 +298,7 @@ Roughly in order of lowest difficulty to highest difficulty:
    1. The Greek Grammar Lab videos and pdfs
    2. The Audio Stories activities for the levels A1/A2
    3. Με αγάπη από την Αθήνα podcast for the levels B1/B2
-* I Kinda Like Languages - Free online language lessons
-   * [Greek Alphabet](https://ikindalikelanguages.com/learn/ModernGreekAlphabet)
-   * [Greek Medio-Passive Voice](https://ikindalikelanguages.com/learn/ModernGreekTopic-MedioPassiveVoice)
+* [I Kind Like Languages: Greek Medio-Passive Voice](https://ikindalikelanguages.com/learn/ModernGreekTopic-MedioPassiveVoice)
 * [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
 * [lingust.ru](https://lingust.ru/%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD/) - Greek lessons in Russian. Contains short dialogues and stories in Greek with audio at the end of most lessons.
 
