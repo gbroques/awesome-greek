@@ -200,16 +200,16 @@ Roughly in order of lowest difficulty to highest difficulty:
 * 🟨 [My Greek Teacher podcast](https://mygreekteacher.com/podcasts-in-slow-greek/) - by Efi Asvesti. Not many episodes.
 * 🟨 [WeeGreek](https://www.listennotes.com/en/podcasts/weegreek-short-stories-and-news-in-easy-and-0jZfq-aWTlS/) - Over 40 episodes with an average length of 17 minutes featuring short stories in Greek with a machine-generated English translation.
 * 🟨 💬🇬🇷🇬🇧 [Learning Greek: A Modern Odyssey](https://www.listennotes.com/podcasts/learning-greek-a-modern-odyssey-3OcmtRw4heL/) - short dialogues in Greek with Greek and English transcript.
-* 🟨 💬🇬🇷 [[YouTube] Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
+* 🟨 💬🇬🇷 [Slow Greek Podcast ~ Six Thousand Islands](https://www.youtube.com/playlist?list=PL5XQM_zVHtfU6J98rto3zW0TqL56HnUSM)
 * 🟧 💬🇬🇷 [Oh my sweet Greece: Με αγάπη από την Αθήνα podcast](https://ohmysweetgreece.com/greekpodcast/) - transcript available after email newsletter subscription.
 * 🟧 [Easy Greek: Learn Greek with authentic conversations](https://www.easygreek.fm/) - transcripts available with a membership.
 * 🟧 [Ζουζουνοπαραμύθια](https://www.you.zouzounia.tv/podcast) - Zouzounia TV offers classic fairy tailes with short episodes around 10 minutes.
 * 🟥 💬🇬🇷 [LiFO Podcasts - ΗΧΗΤΙΚΑ ΑΡΘΡΑ (Audio Articles)](https://www.lifo.gr/podcasts/hxhtika-arthra)
 * 🟥 [Science Talks](https://podcasters.spotify.com/pod/show/science-talks-ucy) - Discussions with academics and researchers on various scientific topics in their specialty from the University of Cyprus.
-* 🟥 [[Spotify] Greece — Top Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 * 🟥 [Science Talks Kids Edition](https://podcasters.spotify.com/pod/show/sciencetalkskids)
 * 🟥 [Κathimerini Podcasts](https://www.kathimerini.gr/visual/podcasts/)
 * 🟥 [Special Broadcasting Services (SBS) Greek - Podcast](https://www.sbs.com.au/language/greek/en/podcast/sbs-greek)
+* 🟥 [Top Greece Spotify Podcasts](https://chartable.com/charts/spotify/greece-top-podcasts)
 
 ### Radio
 
