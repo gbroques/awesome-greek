@@ -48,6 +48,14 @@ Note, a resource may belong to multiple levels.
 * 🟥 - Advanced (C1 - C2)
 * ⬛ - All levels (A1 - C2)
 
+## Subtitles & Transcript
+
+The below emojis next to video or audio resources indicate the following:
+
+* 💬🇬🇷 - Greek subtitles or transcript
+* 💬🇬🇧 - English subtitles or transcript
+* 💬🇬🇷🇬🇧 - Greek & English subtitles or transcript
+
 ## 🎥 Video
 
 ### YouTube
@@ -64,12 +72,6 @@ Roughly in order of most useful to least useful where "useful" is measured by:
 2. quality of videos
 3. whether their videos are mostly in Greek 
 4. and whether they inlcude both Greek and English subtitles.
-
-The below emojis denote the following:
-
-* 💬🇬🇷 - Greek subtitles
-* 💬🇬🇧 - English subtitles
-* 💬🇬🇷🇬🇧 - Greek & English subtitles
 
 In English:
 
