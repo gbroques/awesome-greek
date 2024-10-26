@@ -4,10 +4,6 @@ A curated repository of resources for learning **Modern** Greek.
 
 Ancient Greek resources will not be included.
 
-In general, this repository aims to curate resources *specific* to the Modern Greek.
-
-Thus, resources for learning languages in general will also not be included.
-
 * [Alphabet (Αλφάβητο)](./alphabet.md)
 * [Phonology (Φωνολογία)](./phonology.md)
 * [Vocabulary (Λεξιλόγιο)](./vocabularly.md)
