@@ -140,6 +140,7 @@ In Greek:
 * 🟥 💬🇬🇧 [Greek TED Talks with English Subtitles](https://www.youtube.com/playlist?list=PLkvmxOX1HCR7QUmtVm51Gzl7-I9V2nC-a) - Currently 12 talks.
 * 🟥 💬🇬🇷 [Khan Academy Greek](https://www.youtube.com/c/khanacademygreek/featured)
 * 🟥 💬🇬🇷 [Mikeius Official](https://www.youtube.com/@MikeiusOfficial) - *some* videos have Greek subtitles.
+* 🟥 💬🇬🇷 [ΕΜΕΝΑ ΡΩΤΑ](https://www.youtube.com/@emenarota) - videos about the music industry.
 * 🟥 [Mikros Anagnostis](https://www.youtube.com/@Mikros_Anagnostis) - Reads audio books on YouTube.
 * 🟥 [Ο Φιλέλληνας](https://www.youtube.com/c/OFilellinas/featured) - Multilingual Belgian who makes videos in Greek.
 * 🟥 [Glossa Productions](https://www.youtube.com/channel/UC0wY1r21gow0dnKPXjzDvkg/featured) - Greek videos about language.
