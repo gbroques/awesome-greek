@@ -236,7 +236,7 @@ Roughly in order of lowest difficulty to highest difficulty:
 ### Websites
 
 * 🟩 [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
-* [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts, written and oral, for learning Greek as a second language.
+* ⬛ [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts for learning Greek as a second language.
 * 🟨 [StoryWeaver (Greek)](https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance) - short stories for children.
 * 🟨 [Παιδικά Παραμύθια (Children's Tales)](https://www.paidika-paramythia.gr/) - a modern, mobile and tablet friendly website, with short and long myths and classic tales.
 * Peer-to-peer (P2P) in Greece
