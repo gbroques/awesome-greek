@@ -19,7 +19,7 @@ Ancient Greek resources will not be included.
 * [🎙️ Audio](#%EF%B8%8F-audio)
    * [Websites](#audio-websites)
    * [Podcasts](#podcasts)
-   * [Books](#audio-books)
+   * [Audio Books](#audio-books)
    * [Radio](#radio)
    * [Music](#music)
 * [📄 Text](#-text)
