@@ -173,6 +173,7 @@ In Greek:
 
 * 🟩 [BBC Learning Zone - Talk Greek 1](https://www.youtube.com/watch?v=0nq7-r0wNb4)
 * 🟥 💬🇬🇷🇬🇧 [Βόρεια Εύβοια, Το Σχέδιο (North Evia, The Plan)](https://www.youtube.com/playlist?list=PLesiP49zG6skNtclc9pYGJn2QI9P9fZMt) - Two-part documentary film about how and why North Evia got burned in the fires of August 2021. Part 1 addresses the "how", and part 2 addresses the "why".
+* 🟥 💬🇬🇧 [Without Milk - Χωρίς Γάλα - A short film by Thodoris Vournas](https://www.youtube.com/watch?v=5o9N4jVHIRE)
 * 🟥 💬🇬🇧 [Athos - Mount Athos Monk's Republic Documentary](https://www.youtube.com/watch?v=U5pwfLRI-R8) - Mount Athos on a peninsula off the cost of Greece is one of Europe's last remaining secrets: a monks' republic. Access to women is strictly denied and in order to keep unwanted tourists out, visas are granted only to pilgrims and workers. For the first time, a filmmaker was given access to all forms of monastic life on the holy mountain.
 * 🟥 💬🇬🇧 [Έτερος Εγώ (Other Me)](https://www.youtube.com/watch?v=y3zho2aV2bs) - a 2016 Greek crime film.
 * 🟥 💬🇬🇧 [Παραμύθι χωρίς όνομα](https://www.youtube.com/watch?v=5rRbIXwvydI) - adaptation of a classic novel which is a free audio book listed below.
@@ -180,6 +181,9 @@ In Greek:
 Lists:
 
 * 🟨 [Best Greek movies for beginners & advanced learners- Slow Greek lessons](https://www.youtube.com/watch?v=fvUeAAC8Zj0)
+* 🟥 [Difficult Greek - Short Films](https://www.difficultgreek.com/greek-shortfilms)
+* 🟥 [Difficult Greek - Full Length Films](https://www.difficultgreek.com/greek-fulllength-films)
+* 🟥 [Difficult Greek - Documentaries](https://www.difficultgreek.com/greek-documentaries)
 * 🟥 [Greek Movies with English Subtitles](https://www.youtube.com/playlist?list=PLqwpFoCUvN-qqxNe96CKurYm0CQfhoCn7) - YouTube Playlist
 
 ## 🎙️ Audio
@@ -247,6 +251,9 @@ YouTube channels of audio books:
 ### Music
 
 * [Ελληνική Μουσική (Greek Music)](https://www.youtube.com/watch?v=VrX9IZ16iJY&list=PLesiP49zG6snsCDb1bCihhIgEPm4X4Lid) - A curated YouTube playlist by G Roques.
+* [Difficult Greek - Songs](https://www.difficultgreek.com/greek-songs) - Various songs accompanied by Greek and English lyrics with some additional information.
+
+Greek record labels:
 * [Panik Records](https://panikmusic.gr/)
 * [Cobalt Music](http://www.cobaltmusic.gr/)
 
@@ -257,6 +264,7 @@ YouTube channels of audio books:
 
 * 🟩 [Harry Foundalis - About the Greek Language](http://www.foundalis.com/lan/greek.htm)
 * ⬛ [Tράπεζα κειμένων (Text Bank)](https://www.greek-language.gr/certification/dbs/teachers/index.html) - A collection of authentic texts for learning Greek as a second language.
+* ⬛ [Difficult Greek - Stories](https://www.difficultgreek.com/greek-stories-homepage)
 * 🟨 [StoryWeaver (Greek)](https://storyweaver.org.in/stories?language=Greek&query=&sort=Relevance) - short stories for children.
 * 🟨 [Παιδικά Παραμύθια (Children's Tales)](https://www.paidika-paramythia.gr/) - a modern, mobile and tablet friendly website, with short and long myths and classic tales.
 * 🟥 Peer-to-peer (P2P) in Greece
