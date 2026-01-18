@@ -341,6 +341,7 @@ Greek record labels:
 * ⬛ [Duolingo](https://www.duolingo.com/)
 * ⬛ [Memrise](https://app.memrise.com/courses/english/greek/)
 * ⬛ [Clozemaster](https://www.clozemaster.com/l/ell-eng)
+* ⬛ [Rimata](https://rimata.app/)
 
 ### Open Courses
 
