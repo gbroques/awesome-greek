@@ -330,7 +330,7 @@ Greek record labels:
 
 * 🟩 [Filoglossia - Learning Greek as a foreign language](http://www.xanthi.ilsp.gr/filog/default.htm)
    * [Sitemap](http://www.xanthi.ilsp.gr/filog/sitemap.htm)
-* 🟩🟨 [Speak Greek](https://speakgreek.co.uk/) - A highly interactive site that will get you reading, writing, speaking, and listening from the very first lesson.
+* 🟩🟨 [Speak Greek](https://speakgreek.co.uk/) - A highly interactive site that will get you reading, writing, speaking, and listening from the very first lesson. Unit 1 is free with no sign up required.
 * ⬛ http://www.kypros.org/LearnGreek/
 * http://greek.pgeorgalas.gr/Default.asp
    * http://greek.pgeorgalas.gr/Contents.asp
