@@ -343,6 +343,7 @@ Greek record labels:
 * ⬛ [Memrise](https://app.memrise.com/courses/english/greek/)
 * ⬛ [Clozemaster](https://www.clozemaster.com/l/ell-eng)
 * ⬛ [Rimata](https://rimata.app/)
+* 🟧🟥 [Anki Miner](https://github.com/0xzerolight/anki_miner) - Automated Greek vocabulary card creation from video, audio, manga and books.
 
 ### Open Courses
 
