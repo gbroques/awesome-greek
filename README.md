@@ -336,6 +336,7 @@ Greek record labels:
    * http://greek.pgeorgalas.gr/Contents.asp
 * [I Kind Like Languages: Greek Medio-Passive Voice](https://ikindalikelanguages.com/learn/ModernGreekTopic-MedioPassiveVoice)
 * ⬛ [GreekPod101](https://www.greekpod101.com/) - Paid, but offers some free content.
+* ⬛ [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Paste a link to a Greek YouTube video, such as one from the channels listed above, to get its Greek transcript with timestamps for reading along, and translate it into English line by line. Works on videos with Greek captions (including auto-generated ones); a few transcripts a day are free, paid plans for more.
 
 ### Apps
 
